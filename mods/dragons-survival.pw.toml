@@ -1,0 +1,13 @@
+name = "Dragon Survival"
+filename = "DragonSurvival-1.21.1-v2.0.20-02.05.2025-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "707ce1b98b995f2c00c72cb6243491aa939f16da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6486933
+project-id = 420799

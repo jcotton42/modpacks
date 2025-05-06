@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "5af1ab48d40722d15489800cdd9cf14e816a094f0b18232a3746d0362ac38684"
+metafile = true
+
+[[files]]
+file = "mods/bountiful-blocks.pw.toml"
+hash = "758d45dbef6ed9169f0aa0d7fd0659d8546504c576b34fcb4c0f5bce24823e7b"
+metafile = true
+
+[[files]]
+file = "mods/dragons-survival.pw.toml"
+hash = "95bb7fe0db8ee1b3342442f8d005c83553efe163b6275ae94adb8098641d9590"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "5a9dcbd1981e1dff0cef24186005c0235e983841e76c22f6ed7262c1ae8e30e5"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
