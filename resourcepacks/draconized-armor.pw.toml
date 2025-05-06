@@ -3,8 +3,8 @@ filename = "Armor_Icons_for_Dragons_2.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c9930dc7362c00171838cb627a5b5008a62f06c6"
+hash-format = "sha512"
+hash = "eff0981f8c4d711d62aa16a9d9fe2f6c44f24784938901c8936c1b1d3b5cf19a703c01a05dc3f1c66b8e5ccba0cb2ff4383486aedd833cbc2b105bd480d5052b"
 mode = "metadata:curseforge"
 
 [update]

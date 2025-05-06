@@ -3,8 +3,8 @@ filename = "Aquaculture-1.21.1-2.7.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cc65a43df5cd086e7c4e5722b762dd61c6806443"
+hash-format = "sha512"
+hash = "b62aac9467515f5fdd52c86cff73eec43f9574082b61324324659a9bebfd1e35ecb5af8096e7d66d2dadd7736e91a4fce57ef4571366c4ea36d9e87419d3b8cd"
 mode = "metadata:curseforge"
 
 [update]

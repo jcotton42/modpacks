@@ -3,8 +3,8 @@ filename = "DragonSurvival-1.21.1-v2.0.20-02.05.2025-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "707ce1b98b995f2c00c72cb6243491aa939f16da"
+hash-format = "sha512"
+hash = "388e6acdeee2a97f3c5153ac0ea9dae167f4245e4b7c066cbb34c3d03f87bd8d43da31e783b0a09f3c2b7770a46587e55abf278aeaea92e789b1b3252b4296e0"
 mode = "metadata:curseforge"
 
 [update]
