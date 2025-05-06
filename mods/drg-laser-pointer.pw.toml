@@ -1,0 +1,13 @@
+name = "DRG Laser Pointer"
+filename = "drglaserpointer-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P9C30dU8/versions/QaFWkQxW/drglaserpointer-1.1.2.jar"
+hash-format = "sha512"
+hash = "bf299ef86c8da097eda5c79bb3b85765fa86df614bda763f5a810fc3dde205aacb77bb3aaf10191905a317542779f08dc22eead3c6ae77f42aef0894ec633089"
+
+[update]
+[update.modrinth]
+mod-id = "P9C30dU8"
+version = "QaFWkQxW"

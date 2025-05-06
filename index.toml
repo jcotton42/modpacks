@@ -41,6 +41,11 @@ hash = "758d45dbef6ed9169f0aa0d7fd0659d8546504c576b34fcb4c0f5bce24823e7b"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
+metafile = true
+
+[[files]]
 file = "mods/burnt.pw.toml"
 hash = "4130112052b4bf159b49c2d628eb23d3b9168afd93fa6c55e013e08aa6aec846"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/dragons-survival.pw.toml"
 hash = "95bb7fe0db8ee1b3342442f8d005c83553efe163b6275ae94adb8098641d9590"
+metafile = true
+
+[[files]]
+file = "mods/drg-laser-pointer.pw.toml"
+hash = "c99ee4587498164f683801d2a9b395cefaa4f27c6960f193475cd8bfddbfc2e9"
 metafile = true
 
 [[files]]
@@ -318,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "e6dac682b8d3b8c050da2b40bc27f1be67aa1433e3c6420a546cc2829a5c6224"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
 metafile = true
 
 [[files]]
