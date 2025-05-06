@@ -321,11 +321,11 @@ hash = "e6dac682b8d3b8c050da2b40bc27f1be67aa1433e3c6420a546cc2829a5c6224"
 metafile = true
 
 [[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "a0c5c76479ce9625eb80dcf1b08ac7cfac370c16bc3686a7a5e949234c06cb7e"
+file = "resourcepacks/draconized-armor.pw.toml"
+hash = "be408fc740f41efde0b4de0c39d837b3e0b670d23503760ee0307bb38489c887"
 metafile = true
 
 [[files]]
-file = "resourcepacks/draconized-armor.pw.toml"
-hash = "be408fc740f41efde0b4de0c39d837b3e0b670d23503760ee0307bb38489c887"
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "bb7dab09495d71a2e2dc2210cc683e164f8da589e19039d7eca3c3e195056014"
 metafile = true
