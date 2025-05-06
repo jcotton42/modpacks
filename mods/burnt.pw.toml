@@ -1,0 +1,13 @@
+name = "Burnt: Better Vanilla Fire"
+filename = "burnt-1.9.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2991fb6797b3b23b760660dfd1efc9f01615531"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6473988
+project-id = 998916

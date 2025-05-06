@@ -1,0 +1,13 @@
+name = "Dragon Mounts: Legacy"
+filename = "dragonmounts-1.21-1.2.5-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G3EPcczP/versions/tV1Fo4pQ/dragonmounts-1.21-1.2.5-beta.jar"
+hash-format = "sha512"
+hash = "159d5e307fbc9a6eedd52d481c8cd10551ae4bdc3a794fba1457d3fcea0785e6ddcee36a343ef81ce03d3eda171c62d3df17df222806d857ed8e182559e02cfa"
+
+[update]
+[update.modrinth]
+mod-id = "G3EPcczP"
+version = "tV1Fo4pQ"

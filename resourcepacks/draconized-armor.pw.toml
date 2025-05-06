@@ -1,0 +1,13 @@
+name = "Draconized Armor"
+filename = "Armor_Icons_for_Dragons_2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9930dc7362c00171838cb627a5b5008a62f06c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062699
+project-id = 696063

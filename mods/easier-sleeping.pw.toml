@@ -1,0 +1,13 @@
+name = "Easier Sleeping"
+filename = "EasierSleeping-1.21.1-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yTTpfxdS/versions/hDWqOviD/EasierSleeping-1.21.1-3.0.0.jar"
+hash-format = "sha512"
+hash = "d6bd8593bcc697d0f1ccce3091a6c7565f47004ffa46c7a385cd2651baef5410fbad95c4aa7db96cd0774d76d4d4599b0d64f2df886472ade17d52dec59f8f03"
+
+[update]
+[update.modrinth]
+mod-id = "yTTpfxdS"
+version = "hDWqOviD"
