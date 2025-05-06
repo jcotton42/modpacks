@@ -81,11 +81,6 @@ hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
 metafile = true
 
 [[files]]
-file = "mods/dragon-mounts-legacy.pw.toml"
-hash = "a238bd4a6d4f895fd7771b593c5c5f49c9ac66b70ec1c382f2fe4325b366935a"
-metafile = true
-
-[[files]]
 file = "mods/dragons-survival.pw.toml"
 hash = "8b1bb7ff2d105359ad06b9dbb2c28d51ea19185eb20743c56aed48703ff16bc0"
 metafile = true
@@ -93,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/drg-laser-pointer.pw.toml"
 hash = "c99ee4587498164f683801d2a9b395cefaa4f27c6960f193475cd8bfddbfc2e9"
-metafile = true
-
-[[files]]
-file = "mods/easier-sleeping.pw.toml"
-hash = "8a1edd42ae1caaf1242005c1257c4f70689929c006aa2d990017fa63ca071e3f"
 metafile = true
 
 [[files]]
@@ -113,11 +103,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
-metafile = true
-
-[[files]]
-file = "mods/galosphere.pw.toml"
-hash = "334c0b75eab81236ec01a17e5f7590dfe82819b4d036946e7506934b8f098810"
 metafile = true
 
 [[files]]
@@ -143,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "3d0defaa05f249638a4f43b84ae20294409b90b9f68b36e7a9aa771997129229"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "019fea93516a470bbcad284dd0cbad6f4e2914d96221c86e3f87c12fe6321e10"
 metafile = true
 
 [[files]]
