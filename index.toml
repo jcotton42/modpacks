@@ -6,6 +6,11 @@ hash = "b4160f327578ee994907c217b8de09e2c4377b5735b12ad56d91cb1a08ddd62d"
 metafile = true
 
 [[files]]
+file = "mods/alloyance.pw.toml"
+hash = "2dcf81dcbb3eaa48eea804941499a28bca106087ea611a022a4216cde7545ac1"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "2fbe3b219293c7eab76215939a7f8ef19f10991e41b1c19999d9dd9e9e8e0f01"
 metafile = true
