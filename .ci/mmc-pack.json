@@ -1,0 +1,22 @@
+{
+    "components": [
+        {
+            "dependencyOnly": true,
+            "uid": "org.lwjgl3",
+            "version": "3.3.3"
+        },
+        {
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "$mc_version"
+        },
+        {
+            "uid": "net.neoforged",
+            "version": "$neo_version"
+        },
+        {
+            "uid": "com.unascribed.unsup"
+        }
+    ],
+    "formatVersion": 1
+}
