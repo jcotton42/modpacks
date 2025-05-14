@@ -10,10 +10,12 @@ from string import Template
 ci = Path(__file__).parent
 
 dist = ci.joinpath('dist')
-dist.mkdir()
+shutil.rmtree(dist, ignore_errors=True)
+dist.mkdir(exist_ok=True)
 
 scratch = ci.joinpath('scratch')
-scratch.mkdir()
+shutil.rmtree(scratch, ignore_errors=True)
+scratch.mkdir(exist_ok=True)
 
 mmc_pack_template = Template(ci.joinpath('mmc-pack.json').read_text())
 
