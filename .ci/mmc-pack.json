@@ -8,11 +8,11 @@
         {
             "important": true,
             "uid": "net.minecraft",
-            "version": "$mc_version"
+            "version": "$mc"
         },
         {
             "uid": "net.neoforged",
-            "version": "$neo_version"
+            "version": "$neo"
         },
         {
             "uid": "com.unascribed.unsup"
