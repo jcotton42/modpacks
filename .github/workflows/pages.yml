@@ -20,6 +20,15 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Install Signify
+        run: sudo apt-get install -y signify-openbsd
+      - name: Sign Packs
+        env:
+          SIGNIFY_PRIVATE_KEY: ${{ secrets.SIGNIFY_PRIVATE_KEY }}
+          SIGNIFY_PRIVATE_KEY_PASSWORD: ${{ secrets.SIGNIFY_PRIVATE_KEY_PASSWORD }}
+        run: |
+          echo "$SIGNIFY_PRIVATE_KEY" > "$RUNNER_TEMP/signify.sec"
+          yes "$SIGNIFY_PRIVATE_KEY_PASSWORD" | find packs -name pack.toml -execdir signify-openbsd -S -x unsup.sig -s "$RUNNER_TEMP/signify.sec" -m '{}' \;
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
