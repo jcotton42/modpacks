@@ -1,4 +1,2 @@
 *.zip
 *.mrpack
-.ci/dist
-.ci/scratch

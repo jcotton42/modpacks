@@ -1,33 +1,31 @@
 #!/usr/bin/python3
 
-import re
 import shutil
 import sys
+import tempfile
+import tomllib
 
 from pathlib import Path
 from string import Template
 
 ci = Path(__file__).parent
 
-dist = ci.joinpath('dist')
-shutil.rmtree(dist, ignore_errors=True)
-dist.mkdir(exist_ok=True)
-
-scratch = ci.joinpath('scratch')
-shutil.rmtree(scratch, ignore_errors=True)
-scratch.mkdir(exist_ok=True)
-
 mmc_pack_template = Template(ci.joinpath('mmc-pack.json').read_text())
 
 packs = Path(sys.argv[1])
+dist = Path(sys.argv[2])
+scratch = Path(tempfile.mkdtemp(dir=sys.argv[3]))
+
+dist.mkdir()
 
 for pack in packs.iterdir():
     if not pack.is_dir(): continue
     work = scratch.joinpath(pack.name)
     work.mkdir()
-    packToml = pack.joinpath('pack.toml').read_text()
-    mc = re.search(r'^minecraft *= *"(.+)"$', packToml, re.MULTILINE).group(1)
-    neo = re.search(r'^neoforge *= *"(.+)"$', packToml, re.MULTILINE).group(1)
+    with pack.joinpath('pack.toml').open('rb') as f:
+        packToml = tomllib.load(f)
+        mc = packToml['versions']['minecraft']
+        neo = packToml['versions']['neoforge']
 
     mmc_pack = mmc_pack_template.substitute(mc=mc, neo=neo)
     work.joinpath('mmc-pack.json').write_text(mmc_pack)

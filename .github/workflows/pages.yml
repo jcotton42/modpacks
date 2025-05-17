@@ -40,6 +40,8 @@ jobs:
             fi
           done
           [[ $fail = 0 ]] || exit 1
+      - name: Build Launcher Packs
+        run: .ci/release.py packs launcherzips "$RUNNER_TEMP"
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
