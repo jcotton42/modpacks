@@ -18,30 +18,44 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+      - name: Prepare Packs for Signing
+        env:
+          SIGNIFY_PUBLIC_KEY: ${{ vars.SIGNIFY_PUBLIC_KEY }}
+        run: |
+          fail=0
+          for pack in packs/*; do
+            [[ -d $pack ]] || continue
+            if grep -q ';public key' "$pack/unsup.ini"; then
+              sed -i "s_;public key.*_public_key=signify $SIGNIFY_PUBLIC_KEY" "$pack/unsup.ini"
+            else
+              echo "::error file=$pack/unsup.ini::Missing public key placeholder for $(basename "$pack")."
+              fail=1
+            fi
+          done
+          if [[ $fail = 1 ]]; then
+            exit 1
+          fi
       - name: Install Signify
         run: sudo apt-get install -y signify-openbsd
       - name: Sign Packs
         env:
           SIGNIFY_PRIVATE_KEY: ${{ secrets.SIGNIFY_PRIVATE_KEY }}
           SIGNIFY_PRIVATE_KEY_PASSWORD: ${{ secrets.SIGNIFY_PRIVATE_KEY_PASSWORD }}
-          SIGNIFY_PUBLIC_KEY: ${{ vars.SIGNIFY_PUBLIC_KEY }}
         run: |
           echo "$SIGNIFY_PRIVATE_KEY" > "$RUNNER_TEMP/signify.sec"
           fail=0
           for pack in packs/*; do
-              if grep -q ';public key' "$pack/unsup.ini"; then
-                  sed -i "s_;public key_public_key=signify $SIGNIFY_PUBLIC_KEY" "$pack/unsup.ini"
-                  echo "$SIGNIFY_PRIVATE_KEY_PASSWORD" | signify-openbsd -S -x "$pack/unsup.sig" -s "$RUNNER_TEMP/signify.sec" -m "$pack/pack.toml"
-              else
-                  echo "::error file=$pack/unsup.ini::Missing public key placeholder for $(basename "$pack")"
-                  fail=1
-              fi
+            [[ -d $pack ]] || continue
+            if ! echo "$SIGNIFY_PRIVATE_KEY_PASSWORD" | signify-openbsd -S -x "$pack/unsup.sig" -s "$RUNNER_TEMP/signify.sec" -m "$pack/pack.toml"; then
+              echo "::error file=$pack/pack.toml::Failed to sign $(basename "$pack")."
+              fail=1
+            fi
           done
-          if [[ $fail = 1 ]]; then
-              exit 1
+          if [[ $fail=1 ]]; then
+            exit 1
           fi
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
