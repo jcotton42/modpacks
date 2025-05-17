@@ -26,9 +26,17 @@ jobs:
         env:
           SIGNIFY_PRIVATE_KEY: ${{ secrets.SIGNIFY_PRIVATE_KEY }}
           SIGNIFY_PRIVATE_KEY_PASSWORD: ${{ secrets.SIGNIFY_PRIVATE_KEY_PASSWORD }}
+          SIGNIFY_PUBLIC_KEY: ${{ vars.SIGNIFY_PUBLIC_KEY }}
         run: |
           echo "$SIGNIFY_PRIVATE_KEY" > "$RUNNER_TEMP/signify.sec"
-          yes "$SIGNIFY_PRIVATE_KEY_PASSWORD" | find packs -name pack.toml -execdir signify-openbsd -S -x unsup.sig -s "$RUNNER_TEMP/signify.sec" -m '{}' \;
+          for pack in packs/*; do
+              echo "$SIGNIFY_PRIVATE_KEY_PASSWORD" | signify-openbsd -S -x "$pack/unsup.sig" -s "$RUNNER_TEMP/signify.sec" -m "$pack/pack.toml"
+              if grep -q ';public key' "$pack/unsup.ini"; then
+                  sed -i "s_;public key_public_key=signify $SIGNIFY_PUBLIC_KEY" "$pack/unsup.ini"
+              else
+                  echo "::warning file=$pack/unsup.ini::Missing public key placeholder for $(basename "$pack")"
+              fi
+          done
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
