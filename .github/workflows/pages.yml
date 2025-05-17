@@ -25,8 +25,8 @@ jobs:
           fail=0
           for pack in packs/*; do
             [[ -d $pack ]] || continue
-            if grep -q ';public key' "$pack/unsup.ini"; then
-              sed -i "s_;public key.*_public_key=signify $SIGNIFY_PUBLIC_KEY" "$pack/unsup.ini"
+            if grep -q '; public_key' "$pack/unsup.ini"; then
+              sed -i "s|; public_key.*|public_key=signify $SIGNIFY_PUBLIC_KEY" "$pack/unsup.ini"
             else
               echo "::error file=$pack/unsup.ini::Missing public key placeholder for $(basename "$pack")."
               fail=1
