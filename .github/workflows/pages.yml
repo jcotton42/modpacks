@@ -46,7 +46,7 @@ jobs:
           fail=0
           for pack in packs/*; do
             [[ -d $pack ]] || continue
-            if ! echo "$SIGNIFY_PRIVATE_KEY_PASSWORD" | signify-openbsd -S -x "$pack/unsup.sig" -s "$RUNNER_TEMP/signify.fff" -m "$pack/pack.toml"; then
+            if ! echo "$SIGNIFY_PRIVATE_KEY_PASSWORD" | signify-openbsd -S -x "$pack/unsup.sig" -s "$RUNNER_TEMP/signify.sec" -m "$pack/pack.toml"; then
               echo "::error file=$pack/pack.toml::Failed to sign $(basename "$pack")."
               fail=1
             fi
