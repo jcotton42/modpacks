@@ -34,7 +34,7 @@ jobs:
               if grep -q ';public key' "$pack/unsup.ini"; then
                   sed -i "s_;public key_public_key=signify $SIGNIFY_PUBLIC_KEY" "$pack/unsup.ini"
               else
-                  echo "::warning file=$pack/unsup.ini::Missing public key placeholder for $(basename "$pack")"
+                  echo "::error file=$pack/unsup.ini::Missing public key placeholder for $(basename "$pack")"
               fi
           done
       - name: Build with Jekyll
