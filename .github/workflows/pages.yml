@@ -29,6 +29,7 @@ jobs:
           SIGNIFY_PUBLIC_KEY: ${{ vars.SIGNIFY_PUBLIC_KEY }}
         shell: bash
         run: |
+          mkdir -p dist/packs
           echo "$SIGNIFY_PRIVATE_KEY" > "$RUNNER_TEMP/signify.sec"
           fail=0
           for pack in packs/*; do
@@ -38,14 +39,17 @@ jobs:
               echo "::error file=$pack/pack.toml::Failed to sign $(basename "$pack")."
               fail=1
             fi
+            cp -r "$pack" dist/packs
           done
           [[ $fail = 0 ]] || exit 1
       - name: Build Launcher Packs
-        run: .ci/release.py packs launcherzips "$RUNNER_TEMP"
+        run: build/launcher-packs.py packs dist/launcher-packs "$RUNNER_TEMP"
+      - name: Build Site Index
+        run: build/index.py dist dist/launcher-packs index.md
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./
+          source: ./dist
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

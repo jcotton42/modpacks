@@ -8,9 +8,9 @@ import tomllib
 from pathlib import Path
 from string import Template
 
-ci = Path(__file__).parent
+build = Path(__file__).parent
 
-mmc_pack_template = Template(ci.joinpath('mmc-pack.json').read_text())
+mmc_pack_template = Template(build.joinpath('mmc-pack.json').read_text())
 
 packs = Path(sys.argv[1])
 dist = Path(sys.argv[2])
@@ -33,7 +33,7 @@ for pack in packs.iterdir():
     patches = work.joinpath('patches')
     patches.mkdir()
     shutil.copy(
-        ci.joinpath('com.unascribed.unsup.json'),
+        build.joinpath('com.unascribed.unsup.json'),
         patches
     )
     minecraft = work.joinpath('minecraft')
