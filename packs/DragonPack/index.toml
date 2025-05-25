@@ -266,11 +266,6 @@ hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
 metafile = true
 
 [[files]]
-file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "1c7299d5c46b27b1f57b136116a4440d03dfcf3b46f316a8d741bdbc6c308a4f"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
