@@ -1,0 +1,67 @@
+name: Deploy to GitHub Pages
+on:
+  pull_request:
+  push:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Install Signify
+        run: sudo apt-get install -y signify-openbsd
+      - name: Sign Packs
+        env:
+          SIGNIFY_PRIVATE_KEY: ${{ secrets.SIGNIFY_PRIVATE_KEY }}
+          SIGNIFY_PRIVATE_KEY_PASSWORD: ${{ secrets.SIGNIFY_PRIVATE_KEY_PASSWORD }}
+          SIGNIFY_PUBLIC_KEY: ${{ vars.SIGNIFY_PUBLIC_KEY }}
+        shell: bash
+        run: |
+          mkdir -p dist/packs
+          echo "$SIGNIFY_PRIVATE_KEY" > "$RUNNER_TEMP/signify.sec"
+          fail=0
+          for pack in packs/*; do
+            [[ -d $pack ]] || continue
+            sed -Ei "s|^(preset=.*)|\\1\\npublic_key=signify $SIGNIFY_PUBLIC_KEY|" "$pack/unsup.ini"
+            if ! echo "$SIGNIFY_PRIVATE_KEY_PASSWORD" | signify-openbsd -S -x "$pack/unsup.sig" -s "$RUNNER_TEMP/signify.sec" -m "$pack/pack.toml"; then
+              echo "::error file=$pack/pack.toml::Failed to sign $(basename "$pack")."
+              fail=1
+            fi
+            rsync -r --no-links "$pack" dist/packs
+          done
+          [[ $fail = 0 ]] || exit 1
+      - name: Build Launcher Packs
+        run: build/launcher-packs.py packs dist/launcher-packs "$RUNNER_TEMP"
+      - name: Build Site Index
+        run: build/index.py dist dist/launcher-packs index.md
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./dist
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
