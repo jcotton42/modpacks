@@ -1,3 +1,4 @@
+Below are the modpacks I have built. These are ready for import into [Prism](https://prismlauncher.org/).
 ##PACK_LIST##
 
 ---

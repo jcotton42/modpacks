@@ -8,7 +8,7 @@ site_root = Path(sys.argv[1])
 launcher_packs_root = Path(sys.argv[2])
 index_md = Path(sys.argv[3])
 
-text = 'Available modpacks'
+text = ''
 
 for pack in sorted(launcher_packs_root.iterdir(), key=lambda p: p.stem):
     text += f'\n- [{pack.stem}]({pack.relative_to(site_root)})'
