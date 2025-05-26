@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/burnt.pw.toml"
-hash = "4821c17e21cb6558d64850a4b7a25a0a75e4c1a4a8c885b34eb9d46cae38ef3f"
+hash = "2df64c9eecb07528d975882b67a321053dd81fb338f0f947cb32ef82803427f4"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragons-survival.pw.toml"
-hash = "47dc07d6df89b6f4f540805e92a379d59e535392d782e85589de493401eef5e2"
+hash = "301398f4ada4e4aee18410552b4e938a0e0686381cb9c08c611de42c8f599688"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "690b7aeff798f99fa3600efa5824eeea97c43c841b6eba4263d6c0607a510d54"
+hash = "3c5f660a95a13fe201f4eb278bc409c7c2da797885bcbeee50ddc6f945ae8bec"
 metafile = true
 
 [[files]]
