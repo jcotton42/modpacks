@@ -1,0 +1,6 @@
+[Volume]
+Type=bind
+Device=%h/minecraft/%i/backup
+
+[Unit]
+RequiresMountsFor=%h/minecraft/%i/backup

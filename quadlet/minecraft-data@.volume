@@ -1,0 +1,6 @@
+[Volume]
+Type=bind
+Device=%h/minecraft/%i/data
+
+[Unit]
+RequiresMountsFor=%h/minecraft/%i/data
