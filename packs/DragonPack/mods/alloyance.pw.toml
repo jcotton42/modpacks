@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://github.com/jcotton42/Alloyance/releases/download/0.0.1-alpha/alloyance-1.21.1-0.0.1-alpha.jar"
-hash-format = "sha512"
-hash = "e26a4a6205885b3853176578bdf423622feedf648329196ed83a9140feb3e06b3600839cbfae8bfb27633ac3135cc82c476f4df8f4a8df3b60baaf02c8ce5e0c"
+hash-format = "sha256"
+hash = "c55075c5322e0d2468d56ab142401501d71f341152266a7b43c250fcd945e49e"
 
 [update]
 [update.github]
