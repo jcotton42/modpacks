@@ -1,14 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Megarria_Dragons_Addon_1.0.8_19.05.2026_1.21.1_neoforge.jar"
+hash = "df257ea92c1421b56f6f5c71d5861f66d11385cb9d2cf0d7a5eb28f86963035a"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
-file = "mods/alloyance.pw.toml"
-hash = "8750e288e6e570ae4791af48c397cd46d61db3f7c5a828146a305df5ececc197"
-metafile = true
+file = "mods/alloyance-1.21.1-0.0.1-alpha.jar"
+hash = "f09a9bf30e1507e632969751885f179f4c8a5169b327b00b1cda109c51f3aeac"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -88,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animations.pw.toml"
 hash = "b1b94eb18c6d2951e2e89df2351ac6e0e9380b12c0e2d5306aa39fa31fdd7dfd"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
+hash = "7e811458de897c9b9f324b0483afc1cd8cf2a7ec803fbe5d6f6c9025d6cb62cd"
 metafile = true
 
 [[files]]
