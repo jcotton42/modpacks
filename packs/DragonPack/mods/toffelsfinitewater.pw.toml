@@ -1,6 +1,6 @@
 name = "Finite Water"
 filename = "finite_water-1.21.1-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8fkJAnZL/versions/JDzdTLgI/finite_water-1.21.1-1.0.0.jar"

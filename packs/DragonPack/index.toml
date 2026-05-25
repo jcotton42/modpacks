@@ -30,7 +30,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-village.pw.toml"
-hash = "70d6a7931439fe0fe8d517e89fcdc67d038affabbe3968fba9a95b4ac1f19da7"
+hash = "e86098eaa2e7d9ae6602787711615a5c6ec7ecddd3dc36acbd36c2532ee95757"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "9e8e6fefe7bbb8d00c64a5c9ee6b9dff3c7f18804f7fa7d72f07c37a1cb348a3"
 metafile = true
 
 [[files]]
@@ -56,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/burnt-basic.pw.toml"
 hash = "fee0ea28d7b10cecf129d5655d205f99a7af94685cbaac0bb11c5ec94240531d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -174,6 +184,11 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "3f1fe26d26eaf43c0d7916ee8f8cdf7714a478fc6e09883e931a1f354a6532f0"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "4001d2b92e816ec91524967e1a0dd83c59da461214edf7ad246084fb22c02bc9"
 metafile = true
@@ -195,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
@@ -245,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d2a615d48539929c212fda6a9e44a2737d226aad0b791d61bd31a52b68e12f72"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
@@ -290,12 +305,12 @@ metafile = true
 
 [[files]]
 file = "mods/toffelsfinitewater.pw.toml"
-hash = "328b369c87dcb2ff44cc2c413a9620afa4f4d8b523ee0193494a8d51ef1c5d72"
+hash = "96c56c1c1e287641b233cf25c2f0427c2a6fef60993433808c38e5d610f0e3a2"
 metafile = true
 
 [[files]]
 file = "mods/underwater-enchanting.pw.toml"
-hash = "9ac43b85b3228dfdcd485b66b2355d247eff0e5a409246254bde4da578279546"
+hash = "91ef1d0355b2f893b8a983976f43e7d9d39a547ed25ac6e3dadd3f3b97670248"
 metafile = true
 
 [[files]]
