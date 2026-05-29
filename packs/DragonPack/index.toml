@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Megarria_Dragons_Addon_1.0.8_19.05.2026_1.21.1_neoforge.jar"
-hash = "df257ea92c1421b56f6f5c71d5861f66d11385cb9d2cf0d7a5eb28f86963035a"
+file = "mods/Megarria_Dragons_Addon_1.1.0_29.05.2026_1.21.1_neoforge.jar"
+hash = "7a935dce214f69249ca9c65dbfa928a43d1bd0956d3204b40174d1afba3511b9"
 
 [[files]]
 file = "mods/ae2.pw.toml"
