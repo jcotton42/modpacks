@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Megarria_Dragons_Addon_1.1.0_29.05.2026_1.21.1_neoforge.jar"
-hash = "7a935dce214f69249ca9c65dbfa928a43d1bd0956d3204b40174d1afba3511b9"
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -31,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/better-village.pw.toml"
 hash = "e86098eaa2e7d9ae6602787711615a5c6ec7ecddd3dc36acbd36c2532ee95757"
+metafile = true
+
+[[files]]
+file = "mods/big-pony.pw.toml"
+hash = "cdf6243a6c97ab200f8afbbb84aa08697976b1bc87e5d67ed85aaefa530dc4b2"
 metafile = true
 
 [[files]]
@@ -149,6 +150,11 @@ hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
 
 [[files]]
+file = "mods/hd-skins.pw.toml"
+hash = "a1bc91de9c316073b0dea3064b4f4762a174b184ec2872c2407851cbedfa9177"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
@@ -201,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "4001d2b92e816ec91524967e1a0dd83c59da461214edf7ad246084fb22c02bc9"
+metafile = true
+
+[[files]]
+file = "mods/megarrian-typhus-dragons-dragon-survival-addon.pw.toml"
+hash = "2e668f8a3d65f025215059fdb251c6c131ff10cb04c85a15e1d93a5d603d7df5"
 metafile = true
 
 [[files]]
@@ -331,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/underwater-enchanting.pw.toml"
 hash = "91ef1d0355b2f893b8a983976f43e7d9d39a547ed25ac6e3dadd3f3b97670248"
+metafile = true
+
+[[files]]
+file = "mods/unicopia.pw.toml"
+hash = "059970a410b03fe66d75a9c1db4065354368d7d4c0254e7829fc399a25137ba9"
 metafile = true
 
 [[files]]
