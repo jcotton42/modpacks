@@ -1,0 +1,101 @@
+{
+	"actions": [
+		{
+			"target_selection": {
+				"target_type": "dragonsurvival:self",
+				"applied_effects": {
+					"entity_effect": [
+						{
+							"effect_type": "dragonsurvival:run_function",
+							"function": "dragonsurvival:megarria_milk_1"
+						}
+					],
+					"targeting_mode": "allies_and_self"
+				}
+			},
+			"trigger_rate": 1
+		}
+	],
+	"activation": {
+		"activation_type": "dragonsurvival:simple",
+		"animations": {
+			"end": {
+				"animation_key": "change_stance",
+				"layer": "BASE",
+				"locks_neck": false,
+				"locks_tail": false,
+				"transition_length": 4
+			},
+			"start_and_charging": {
+				"animation_key": "milking",
+				"layer": "BASE",
+				"locks_neck": false,
+				"locks_tail": false,
+				"transition_length": 5
+			}
+		},
+		"can_move_while_casting": false,
+		"cast_time": 40.0,
+		"cooldown": 5600.0,
+		"initial_mana_cost": 1.0,
+		"sound": {
+			"end": "minecraft:ui.toast.in"
+		}
+	},
+	"icon": {
+		"texture_entries": [
+			{
+				"from_level": 0,
+				"texture_resource": "dragonsurvival:abilities/mega_typhus/megarria_milking_0"
+			},
+			{
+				"from_level": 1,
+				"texture_resource": "dragonsurvival:abilities/mega_typhus/megarria_milking_1"
+			}
+		]
+	},
+	"upgrade": {
+		"upgrade_type": "dragonsurvival:dragon_growth",
+		"maximum_level": 1,
+		"growth_requirement": 40
+	},
+	"usage_blocked": {
+		"condition": "minecraft:any_of",
+		"terms": [
+			{
+				"condition": "minecraft:inverted",
+				"term": {
+					"condition": "minecraft:entity_properties",
+					"entity": "this",
+					"predicate": {
+						"slots": {
+							"container.*": {
+								"items": "minecraft:bucket"
+							}
+						}
+					}
+				}
+			},
+			{
+				"condition": "minecraft:entity_properties",
+				"entity": "this",
+				"predicate": {
+					"type_specific": {
+						"type": "dragonsurvival:dragon_predicate",
+						"dragon_body": "dragonsurvival:mega_typhus_male"
+					}
+				}
+			},
+			{
+				"condition": "minecraft:entity_properties",
+				"entity": "this",
+				"predicate": {
+					"type_specific": {
+						"type": "dragonsurvival:dragon_predicate",
+						"dragon_body": "dragonsurvival:mega_typhus_male_stand"
+					}
+				}
+			}
+		]
+	}
+}

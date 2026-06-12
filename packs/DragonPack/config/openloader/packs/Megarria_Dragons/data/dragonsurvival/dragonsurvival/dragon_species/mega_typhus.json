@@ -1,0 +1,62 @@
+{
+	"abilities": "#dragonsurvival:mega_typhus",
+	"custom_stage_progression": [
+		"dragonsurvival:mega_typhus_newborn",
+		"dragonsurvival:mega_typhus_young",
+		"dragonsurvival:mega_typhus_adult",
+		"dragonsurvival:mega_typhus_ancient"
+	],
+	"bodies": [
+		"dragonsurvival:mega_typhus_male",
+		"dragonsurvival:mega_typhus_male_stand",
+		"dragonsurvival:mega_typhus_female",
+		"dragonsurvival:mega_typhus_female_stand"
+	],
+	"unlockable_behavior": {
+		"unlock_condition": {
+			"condition": "minecraft:entity_properties",
+			"entity": "this",
+			"predicate": {
+				"type_specific": {
+					"type": "minecraft:player",
+					"advancements": {
+						"dragonsurvival:root": true
+					}
+				}
+			}
+		},
+		"visibility": "always_visible"
+	},
+	"misc_resources": {
+		"ability_bar": "dragonsurvival:textures/gui/custom/casting_bars/mega_typhus/cast_bar.png",
+		"altar_banner": "dragonsurvival:textures/gui/custom/altar/mega_typhus/altar_icon.png",
+		"food_sprites": "dragonsurvival:textures/gui/custom/food_icons/mega_typhus_food_icons.png",
+		"food_tooltip": {
+			"nutrition_icon": "",
+			"saturation_icon": ""
+		},
+		"growth_crystal": {
+			"empty": "dragonsurvival:textures/gui/custom/stage/mega_typhus/point_main.png",
+			"full": "dragonsurvival:textures/gui/custom/stage/mega_typhus/point_hover.png"
+		},
+		"growth_left_arrow": {
+			"hover_icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/left_arrow_hover.png",
+			"icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/left_arrow_main.png"
+		},
+		"growth_right_arrow": {
+			"hover_icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/right_arrow_hover.png",
+			"icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/right_arrow_main.png"
+		},
+		"help_button": "dragonsurvival:textures/gui/custom/help_button/forest_help_button.png",
+		"mana_sprites": {
+			"empty": "dragonsurvival:textures/gui/custom/mana_icons/mega_typhus/empty.png",
+			"full": "dragonsurvival:textures/gui/custom/mana_icons/mega_typhus/full.png",
+			"recovery": "dragonsurvival:textures/gui/custom/mana_icons/mega_typhus/recovery.png",
+			"reserved": "dragonsurvival:textures/gui/custom/mana_icons/mega_typhus/reserved.png"
+		},
+		"primary_color": "#CC4141",
+		"secondary_color": "#781111"
+	},
+	"mana_handling": {},
+	"penalties": "#dragonsurvival:mega_typhus"
+}

@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"pelagic_prehistory:ancient_sediment"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pelagic_prehistory:cuttlefish_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

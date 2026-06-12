@@ -1,0 +1,16 @@
+{
+	"values": {
+		"dragonsurvival:mega_typhus_male": {
+			"dragonsurvival:mega_typhus": "dragonsurvival:textures/gui/custom/body/mega_typhus_male/body_icon.png"
+		},
+		"dragonsurvival:mega_typhus_male_stand": {
+			"dragonsurvival:mega_typhus": "dragonsurvival:textures/gui/custom/body/mega_typhus_male/body_icon.png"
+		},
+		"dragonsurvival:mega_typhus_female": {
+			"dragonsurvival:mega_typhus": "dragonsurvival:textures/gui/custom/body/mega_typhus_female/body_icon.png"
+		},
+		"dragonsurvival:mega_typhus_female_stand": {
+			"dragonsurvival:mega_typhus": "dragonsurvival:textures/gui/custom/body/mega_typhus_female/body_icon.png"
+		}
+	}
+}

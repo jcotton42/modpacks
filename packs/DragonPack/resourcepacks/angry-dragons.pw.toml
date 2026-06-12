@@ -1,0 +1,13 @@
+name = "Angry Dragons (Phantom replacement)"
+filename = "Angry_Dragons_v1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f85ea8e8d5cc4bd6a71ef055497ef2b46ac956b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4053399
+project-id = 694230

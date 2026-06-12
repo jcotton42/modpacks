@@ -1,0 +1,13 @@
+name = "KeepCuriosInventory Refoxed"
+filename = "keepcuriosinventory-1.21.1-NeoForge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a37edb6bcdd00c7e668fad8c4a4c9d275ba62e90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6130825
+project-id = 1187001

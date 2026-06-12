@@ -1,0 +1,15 @@
+{"replace": true,
+	"values": [
+		"dragonsurvival:storm_breath",
+		"dragonsurvival:forest_breath",
+		"dragonsurvival:nether_breath",
+		"dragonsurvival:megarria_stand_change",
+		"dragonsurvival:megarria_excharge_exp_to_food",
+		"dragonsurvival:megarria_milking",
+		"dragonsurvival:sea_eyes",
+		"dragonsurvival:sea_magic",
+		"dragonsurvival:megarria_food_check",
+		"dragonsurvival:megarria_immunity",
+		"dragonsurvival:sea_wings"
+	]
+}

@@ -3,11 +3,11 @@ filename = "bountifulblocks-0.9.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OmyoZPgm/versions/z2ArJtAm/bountifulblocks-0.9.9.jar"
-hash-format = "sha512"
-hash = "26392a2c884ac7d3dcbda0584e0712642fc3f0d7f95f95822ab2e6a83befb09f754f169e2646c8ae9521bfe45aec5839b23665624ffb0cd68d471b61aefe0752"
+hash-format = "sha1"
+hash = "94254143cb5446b8388105409a1205b2673164d2"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "OmyoZPgm"
-version = "z2ArJtAm"
+[update.curseforge]
+file-id = 6449560
+project-id = 1086661

@@ -1,0 +1,16 @@
+{
+	"values": [
+		{
+			"id": "mekanism:radiation",
+			"required": false
+		},
+		{
+			"id": "nuclearscience:plasma",
+			"required": false
+		},
+		{
+			"id": "radioactive:radiation_dt",
+			"required": false
+		}
+	]
+}

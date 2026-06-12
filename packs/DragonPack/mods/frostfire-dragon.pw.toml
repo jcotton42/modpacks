@@ -1,0 +1,13 @@
+name = "Frostfire Dragon (Dragon Survival Add-On)"
+filename = "frostfire_dragon-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a112c3da54e48c244546757c93a7fe45b2f7960a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8032522
+project-id = 1469048

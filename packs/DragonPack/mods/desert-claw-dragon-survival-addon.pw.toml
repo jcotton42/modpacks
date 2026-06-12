@@ -1,0 +1,13 @@
+name = "Desert Claw - Dragon Survival Addon"
+filename = "desert_monster_ds-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f529b49946c9ad6610f6bf2470c8d6889408103"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7216235
+project-id = 1383729

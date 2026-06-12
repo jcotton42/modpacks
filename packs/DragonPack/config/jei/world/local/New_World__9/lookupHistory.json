@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"mekanism:alloy_atomic"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:antiprotonic_nucleosynthesizer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

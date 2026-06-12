@@ -1,0 +1,4 @@
+#Set whether to enable the goof entities or not.
+enableGoofs = false
+#Set whether to disable the dragon stat GUI or not.
+disableStatGui = false

@@ -1,0 +1,13 @@
+name = "Brain Stealer - Dragon Survival Addon"
+filename = "brain_stealer_dragon-1.0.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "518c76adf7f09cb8a767b9a2b11093b38fa0192d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8010279
+project-id = 1351163

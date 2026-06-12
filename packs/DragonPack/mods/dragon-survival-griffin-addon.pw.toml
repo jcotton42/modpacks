@@ -1,0 +1,13 @@
+name = "Small Griffin - Dragon Survival Addon"
+filename = "griffin_ds-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48232b380636daa55c560aa2ac64d5894543b7a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6686273
+project-id = 1211879

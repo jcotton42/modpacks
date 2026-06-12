@@ -1,0 +1,13 @@
+name = "Flower Patch"
+filename = "FlowerPatch-neoforge-1.21.1-7.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9c9891b838128c562c645d483eaec75b59d14d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6281047
+project-id = 641038

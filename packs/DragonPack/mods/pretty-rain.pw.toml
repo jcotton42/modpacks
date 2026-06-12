@@ -1,0 +1,13 @@
+name = "Pretty Rain"
+filename = "Pretty Rain-1.21.1-NeoForge-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b2691fab1a40995095814b019cb55cb0f7be610"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6347978
+project-id = 1163800

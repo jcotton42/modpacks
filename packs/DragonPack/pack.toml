@@ -1,16 +1,13 @@
-name = "Dragon Pack"
-author = "jcotton42"
-version = "1.0.0"
+name = "Play as Dragon Comfort Edition"
+author = "BlackAuresArt"
+version = "3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b7e22c95cfef6087245a873a76aa901bbc3dc8940e3a181ef19b37849a85cceb"
+hash = "22c5379503bb1323e7a0db4e29906c9c0022261f2a5464a5d7d6bd0eb630336f"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.231"
-
-[options]
-acceptable-game-versions = ["1.21"]
+neoforge = "21.1.233"

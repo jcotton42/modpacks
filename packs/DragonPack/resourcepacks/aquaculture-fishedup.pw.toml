@@ -1,0 +1,13 @@
+name = "Aquaculture FishedUP"
+filename = "aquaculture_fished_up.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0b9c4f02baf5314d62733e95a53bd5f45a71bda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5120652
+project-id = 895286

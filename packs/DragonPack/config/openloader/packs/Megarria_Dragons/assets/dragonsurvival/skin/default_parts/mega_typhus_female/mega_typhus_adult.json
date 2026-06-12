@@ -1,0 +1,17 @@
+{
+	"species": "dragonsurvival:mega_typhus",
+	"stage": "dragonsurvival:mega_typhus_adult",
+	"model": "dragonsurvival:mega_typhus_female",
+	"parts": {
+		"base": "mega_typhus_base_1_female",
+		"bottom": "mega_typhus_bottom_1_male",
+		"eyes": "mega_typhus_eye_10_female",
+		"horns": "mega_typhus_hornsss_2",
+		"spikes": "mega_typhus_spike_10_female",
+		"claws": "mega_typhus_claw_1_male",
+		"teeth": "mega_typhus_teeth_1_male",
+		"extra": "mega_typhus_extra_1_male",
+		"extra1": "mega_typhus_extra_2_male",
+		"extra2": "mega_typhus_extra_3_male"
+	}
+}

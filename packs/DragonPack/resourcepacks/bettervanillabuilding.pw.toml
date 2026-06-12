@@ -1,0 +1,13 @@
+name = "BetterVanillaBuilding"
+filename = "BetterVanillaBuildingRemakeBeta3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba593792932cb86f0d8f20b5232969df222ad2bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7141405
+project-id = 356831

@@ -1,0 +1,13 @@
+name = "Hide Hands"
+filename = "hidehands-1.21.1-4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef8784a98b64a4f32483137d1d548cdbb5ce03c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6185706
+project-id = 379688

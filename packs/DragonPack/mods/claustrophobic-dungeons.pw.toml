@@ -1,0 +1,13 @@
+name = "Claustrophobic Dungeons"
+filename = "claustrophobic_dungeons-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "474553ceac6712c41a47d73155303f40f96f8f43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7065586
+project-id = 1357519

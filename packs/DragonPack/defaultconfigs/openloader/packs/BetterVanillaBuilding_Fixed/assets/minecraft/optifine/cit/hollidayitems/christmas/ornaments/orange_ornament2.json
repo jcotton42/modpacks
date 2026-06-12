@@ -1,0 +1,6 @@
+{
+	"parent": "./ornament2",
+	"textures": {
+		"0": "./orange"
+	}
+}

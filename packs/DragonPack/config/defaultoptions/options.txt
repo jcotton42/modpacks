@@ -1,0 +1,22 @@
+guiScale:4
+maxFps:60
+narrator:0
+renderDistance:8
+simulationDistance:12
+screenEffectScale:1.0
+bobView:false
+darkMojangStudiosBackground:true
+hideLightningFlashes:true
+hideSplashTexts:true
+highContrast:false
+narratorHotkey:false
+resourcePacks:["vanilla","mod_resources","moonlight:mods_dynamic_assets","file/waystones_1.21.1.zip","file/FreshAnimations_v1.9.2.zip","file/Fresh Better Cats v1.0 1.21.zip","file/AL\u0027s Skeletons Revamped+FA 1.4.zip","file/AL\u0027s Scorpions  Crabs+FA.zip","file/AL\u0027s Spiders Revamped+FA 1.3.zip","file/FreshTurtleVariants1.21-1.21.4V1.0.zip","file/Better_Farm_Animals_v0.08.zip","file/aquaculture_fished_up.zip","file/Angry_Dragons_v1.zip","file/Unique Dark 1.20.2-1.21.x (free).zip","file/Medieval_Style_Lootr.zip","file/Torchmaster Remaster.zip","mod/dragonsurvival:resourcepacks/draconized_armor","mod/dragonsurvival:resourcepacks/ds_dark_gui","openloader/Z:\\CURSEFORGE\\Instances\\2134513413\\config\\openloader\\packs\\BetterVanillaBuilding_Fixed"]
+incompatibleResourcePacks:[]
+soundCategory_master:0.5
+modelPart_cape:true
+modelPart_jacket:true
+modelPart_left_sleeve:true
+modelPart_right_sleeve:true
+modelPart_left_pants_leg:true
+modelPart_right_pants_leg:true
+modelPart_hat:true

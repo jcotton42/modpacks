@@ -1,0 +1,13 @@
+name = "Better Cats x Fresh Animations"
+filename = "Fresh Better Cats v1.0 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca3ea515c8f5f8aca5d44054ec8f7fa986fa3f1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5654881
+project-id = 1089184

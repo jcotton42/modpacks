@@ -1,0 +1,1 @@
+execute if entity @s[nbt={Inventory:[{id:"minecraft:bucket"}]}] run function dragonsurvival:megarria_milk_2
