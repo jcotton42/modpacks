@@ -1,13 +1,13 @@
-name = "[NoCube's] Undergarden Delight (A Farmer's Delight Add-on)"
+name = "[NoCube's] Undergarden Delight"
 filename = "undergardendelight-1.2.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7b9aa29f300e2694f770b786880f37dfa3964407"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/H340jsJv/versions/W0BBzD4x/undergardendelight-1.2.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "419f23bd403c2df8af63e4d08f167fa97e0114f77ddfaae4af3afc8c24d2da524dd55be0e7ae14b6c4433bf2a41f60d311a4cfb65a7a5fadaa8319a16c32a59a"
 
 [update]
-[update.curseforge]
-file-id = 6216313
-project-id = 960662
+[update.modrinth]
+mod-id = "H340jsJv"
+version = "W0BBzD4x"

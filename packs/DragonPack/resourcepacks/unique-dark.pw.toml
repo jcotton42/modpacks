@@ -1,13 +1,13 @@
 name = "Unique Dark"
 filename = "Unique Dark - Lite - 1.20.2-26.x.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "44c9abbeab6c80b61cbe1d5a07149d8b3db8a95d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/GGlSDQ6J/Unique%20Dark%20-%20Lite%20-%201.20.2-26.x.zip"
+hash-format = "sha512"
+hash = "338ef4c9b2bb8f5db8a295c5c7a7765b3b0881a75387b77b04d04d07774fa660fb0acb111f6c1fce8fbf91d06e4bbbc277bc92687ec23ac69a7399724959c7a4"
 
 [update]
-[update.curseforge]
-file-id = 8106040
-project-id = 853880
+[update.modrinth]
+mod-id = "BaY1UdGV"
+version = "GGlSDQ6J"
