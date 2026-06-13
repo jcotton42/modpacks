@@ -55936,7 +55936,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "e16dfb41b1e085795b99b8367af44e5676997ca4e46487eea90fd810dfbce1a5"
+hash = "6ea6169ebce789689a3f08e36154580f119bcedd528c419a10c4cf621328fb6e"
 metafile = true
 
 [[files]]
@@ -56140,7 +56140,7 @@ hash = "3bff11b38f3a3857f89375b2e9e4857dd8e4942c58279e9b40146ea32d83e6a6"
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "45f2716f6f9df0cfbe1bb7220639fce697452dbbaf8c7b45a283667c90685104"
+hash = "a4936281b7fdf6005961596c6f2b952c8f1bc62b16138630492b57aa0629366c"
 metafile = true
 
 [[files]]
@@ -56174,27 +56174,27 @@ hash = "018b07fc5561e6211147750a7184e194d0ce958d305eb58833bb90dda3154d3b"
 
 [[files]]
 file = "resourcepacks/als-scorpions-crabs-x-fresh-animations.pw.toml"
-hash = "143c4c04b978e17b40c16ee1936afc4bb3892ddc30d5401b384a1921676cb97d"
+hash = "6c0100f18fc222d19372c6223e42bce8006f7ad42774abf62635c5f25c77c5f7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/als-skeletons-revamped-x-fresh-animations.pw.toml"
-hash = "072eea1fd92939a01986153ba57d46f5e538a14cdcad456abf0f8f013b6bd312"
+hash = "798bd843f1b20d94ef0fe334393f511e4fbf801bc9b4ad2639a6a0e82f8d4ba0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/als-spiders-revamped-x-fresh-animations.pw.toml"
-hash = "bbbf27c27433e92ba85298f12f0a695eec4a823495fecd07f040c100e72aeebf"
+hash = "c76214bd51b12a36b2dee04016d98c0aaea62989969e2d6ac6576d1d41c7fb62"
 metafile = true
 
 [[files]]
 file = "resourcepacks/angry-dragons.pw.toml"
-hash = "f40e0e4c777aea2b3526e2bbcd5797cbe4fec50801918fd26504997fa2040c20"
+hash = "4a5647fde5298b15110311f7fb5477196fb96b4b1891e5a75875e16fe31173d9"
 metafile = true
 
 [[files]]
 file = "resourcepacks/aquaculture-fishedup.pw.toml"
-hash = "740e64ebf716865581c726f04bd9b5355c71d07e15a62613a0d998afceedee88"
+hash = "e54d72b38e4568668163f86ee5a74c4ed2141c178ce475e081270c6e078d4834"
 metafile = true
 
 [[files]]
@@ -56209,7 +56209,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-cats-x-fresh-animations.pw.toml"
-hash = "8f7d3f3bc3835470f8356931cc146b7fd7961f6680cce5bcc27818359112d7a1"
+hash = "834973dfb3040441a46c925d7085828a324251e70769c86ab5bdc84c236ad417"
 metafile = true
 
 [[files]]
@@ -56219,22 +56219,22 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
-hash = "fa63ecfd14ca8b19c32cf5bb200400b7756e585626c8e02347d822ddc99c8f05"
+hash = "b2b1d4e4e99f884c09f7c88c4d7106e65d3dc5d4aab942eb1e8ff0aad332a561"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-better-turtle-variants.pw.toml"
-hash = "9d55b30f871d6d881073a6e1d946d3cb432c71c10a75538c62f38df6f42b884b"
+hash = "a9631a9816998a00ded43fd04ecd44465c118fe1492ad08dbc515d4a0647cd62"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
-hash = "dd91c22e378715d83782d03668ad65b5833c7c85ed634f2e664412cb50e4366b"
+hash = "061d9fbd5e1df5cdd76da753629dfbb3c64c696e33498ab020372ed6e239b4b8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "66e7fabf1a08eb6c100f1ac978cf31da3d21821e52f5356c1c0844ca931debb3"
+hash = "5a34e3afb1643fec0bf534124d5038683ab484dfa5c269a4fadfe72443113b74"
 metafile = true
 
 [[files]]

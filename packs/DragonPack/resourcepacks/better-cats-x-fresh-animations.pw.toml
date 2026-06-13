@@ -1,6 +1,6 @@
 name = "Better Cats x Fresh Animations"
 filename = "Fresh Better Cats v1.0 1.21.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

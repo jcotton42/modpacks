@@ -1,6 +1,6 @@
 name = "AL's Scorpions & Crabs x Fresh Animations"
 filename = "AL's Scorpions  Crabs+FA.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

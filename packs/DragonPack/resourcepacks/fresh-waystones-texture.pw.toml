@@ -1,6 +1,6 @@
 name = "Fresh Waystones Texture"
 filename = "waystones_1.21.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
