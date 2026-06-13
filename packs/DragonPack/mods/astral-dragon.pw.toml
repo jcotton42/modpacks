@@ -1,0 +1,13 @@
+name = "Astral Dragon"
+filename = "astral_dragon-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9617f1d37c788156b3c1634162aad48f3187eb76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7056311
+project-id = 1252507

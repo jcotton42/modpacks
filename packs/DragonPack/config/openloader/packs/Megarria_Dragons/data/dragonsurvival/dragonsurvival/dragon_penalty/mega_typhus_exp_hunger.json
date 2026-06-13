@@ -1,0 +1,43 @@
+{
+	"icon": "dragonsurvival:penalties/mega_typhus/mega_typhus_exp_hunger",
+	"condition": {
+		"condition": "minecraft:all_of",
+		"terms": [
+			{
+				"condition": "minecraft:entity_scores",
+				"entity": "this",
+				"scores": {
+					"megarria_hunger": {
+						"max": 10
+					}
+				}
+			}
+		]
+	},
+	"effect": {
+		"penalty_type": "dragonsurvival:modifier",
+		"modifiers": [
+			{
+				"base": {
+					"id": "mega_typhus_exp_hunger",
+					"duration": 60,
+					"custom_icon": "dragonsurvival:textures/mob_effect/mega_typhus_exp_hunger.png",
+					"probability": 1,
+					"effect_particles": false,
+					"show_icon": true
+				},
+				"modifiers": [
+					{
+						"attribute": "dragonsurvival:experience",
+						"amount": -0.5,
+						"operation": "add_multiplied_total"
+					}
+				]
+			}
+		]
+	},
+	"trigger": {
+		"penalty_trigger": "dragonsurvival:instant",
+		"trigger_rate": 30
+	}
+}

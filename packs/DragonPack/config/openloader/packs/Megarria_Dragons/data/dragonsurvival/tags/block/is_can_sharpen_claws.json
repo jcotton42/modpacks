@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:logs"
+	],
+	"remove": [
+		"#c:stripped_logs",
+		"#c:stripped_woods"
+	]
+}

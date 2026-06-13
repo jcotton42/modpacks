@@ -1,0 +1,13 @@
+name = "You've Goat to be Kidding Me!"
+filename = "goated-1.21-1.4.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c769d7f8a5c184084705a76a89528caa47454082"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6750165
+project-id = 805646

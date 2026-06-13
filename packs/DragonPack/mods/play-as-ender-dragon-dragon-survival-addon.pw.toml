@@ -1,0 +1,13 @@
+name = "Play as Ender Dragon - Dragon Survival Addon"
+filename = "ds-ender-dragon-addon-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7da976421e34dae3df866ac9d1bfeedbbc6e1f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7984457
+project-id = 1412806

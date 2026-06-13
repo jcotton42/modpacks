@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "WhiteAures",
+      "uniqueId": "bb5394bb-dc4d-4eb1-ac2c-a660ebd1292d"
+    },
+    "time": 1780554095270,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/iSyrQQnndB"
+    }
+  }
+]

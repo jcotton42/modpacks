@@ -1,0 +1,14 @@
+{
+	"key": "mega_typhus_horn_3",
+	"texture": "dragonsurvival:textures/dragon/custom/mega_typhus/horn_3.png",
+	"average_hue": 0.8920146636914249,
+	"applicable_species": [
+		"dragonsurvival:mega_typhus"
+	],
+	"applicable_bodies": [
+		"dragonsurvival:mega_typhus_male",
+		"dragonsurvival:mega_typhus_male_stand",
+		"dragonsurvival:mega_typhus_female",
+		"dragonsurvival:mega_typhus_female_stand"
+	]
+}

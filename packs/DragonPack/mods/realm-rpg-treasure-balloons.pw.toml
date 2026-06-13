@@ -1,0 +1,13 @@
+name = "[NoCube's] Realm RPG: Treasure Balloons"
+filename = "realmrpg_balloons-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f338f274581c67b174f1208984655c0eb1ded022"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8073660
+project-id = 1385248

@@ -1,0 +1,75 @@
+{
+	"animation": "dragonsurvival:mega_typhus_male_animations",
+	"model": "dragonsurvival:mega_typhus_male",
+	"backpack_offset": {
+		"scale": [
+			0.6,
+			0.6,
+			0.6
+		]
+	},
+	"bettercombat_weapon_offset": -3.0,
+	"can_hide_wings": false,
+	"crouch_height_ratio": 0.7,
+	"default_icon": "dragonsurvival:textures/gui/custom/body/mega_typhus_male/body_icon.png",
+	"emotes": "dragonsurvival:mega_typhus_emotes",
+	"is_default": false,
+	"modifiers": [
+		{
+			"amount": 0.3,
+			"attribute": "minecraft:generic.movement_speed",
+			"operation": "add_multiplied_total"
+		},
+		{
+			"amount": 0.0,
+			"attribute": "minecraft:player.sneaking_speed",
+			"operation": "add_value"
+		},
+		{
+			"amount": 1.0,
+			"attribute": "neoforge:swim_speed",
+			"operation": "add_value"
+		},
+		{
+			"amount": 100.0,
+			"attribute": "minecraft:generic.oxygen_bonus",
+			"operation": "add_multiplied_total"
+		},
+		{
+			"amount": 13.0,
+			"attribute": "minecraft:generic.safe_fall_distance",
+			"operation": "add_value"
+		},
+		{
+			"amount": 0.2,
+			"attribute": "dragonsurvival:flight_speed",
+			"operation": "add_value"
+		}
+	],
+	"texture_size": {
+		"width": 512,
+		"height": 512
+	},
+	"mounting_offset": {
+		"dragon_offset": [
+			0.0,
+			0.05,
+			1.5
+		],
+		"human_offset": [
+			0.0,
+			0.15,
+			0.5
+		],
+		"offset_per_scale_above_one": [
+			0.0,
+			-0.25,
+			-0.5
+		]
+	},
+	"scaling_proportions": {
+		"eye_height": 1.8,
+		"height": 2.0,
+		"width": 0.6
+	}
+}

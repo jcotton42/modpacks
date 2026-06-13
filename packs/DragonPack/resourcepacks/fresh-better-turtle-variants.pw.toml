@@ -1,0 +1,13 @@
+name = "Fresh Better Turtle Variants"
+filename = "FreshTurtleVariants1.21-1.21.4V1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "760ac5dd9764e0c03e86ae3f0dc9fc51f52c03df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7529495
+project-id = 1200135

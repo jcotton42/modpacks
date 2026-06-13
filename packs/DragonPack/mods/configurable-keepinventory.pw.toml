@@ -1,0 +1,13 @@
+name = "Configurable KeepInventory"
+filename = "keepinventory-1.21-v1.15.2-29.05.2025.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94a7ccfeb04f8b64c2d6e1fd57f5aecee9642b6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6596286
+project-id = 960027

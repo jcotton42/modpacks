@@ -1,0 +1,25 @@
+#Enable structure overlap prevention
+enableOverlapPrevention = true
+#Log when structures are blocked due to overlap
+logBlockedStructures = true
+#Use 3D overlap detection instead of 2D (X-Z only). 3D prevents underground structures from blocking surface structures and vice versa.
+use3DOverlapDetection = true
+#Minimum distance between structure centers to prevent overlap (in blocks)
+# Default: 16
+# Range: 1 ~ 1000
+minOverlapDistance = 16
+#List of structure IDs that should have overlap prevention enabled. If empty, all structures are included.
+#Note: Use the actual Minecraft registry names (e.g., minecraft:village_plains, minecraft:stronghold)
+structureWhitelist = []
+#List of structure IDs that should have overlap prevention disabled
+#Note: Use the actual Minecraft registry names, not display names.
+#Common structure names: minecraft:jigsawstructure, minecraft:netherfossilstructure,
+#minecraft:fossilstructure, minecraft:jungletemplestructure, minecraft:swamphutstructure,
+#minecraft:igloostructure, minecraft:alternatejigsawstructure, etc.
+structureBlacklist = ["minecraft:jigsawstructure", "minecraft:netherfossilstructure", "minecraft:fossilstructure", "minecraft:jungletemplestructure", "minecraft:swamphutstructure", "minecraft:igloostructure", "minecraft:alternatejigsawstructure"]
+#Per-structure minimum overlap distances. Format: ["structure_id=distance", "another_id=32"]
+#Note: Use actual Minecraft registry names (e.g., "minecraft:village_plains=64", "minecraft:stronghold=32")
+structureSpecificDistances = []
+#Per-structure enable/disable settings. Format: ["structure_id=true", "another_id=false"]
+#Note: Use actual Minecraft registry names (e.g., "minecraft:village_plains=true", "minecraft:stronghold=false")
+structureSpecificEnabled = []

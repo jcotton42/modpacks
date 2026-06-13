@@ -1,0 +1,13 @@
+name = "AL's Scorpions & Crabs x Fresh Animations"
+filename = "AL's Scorpions  Crabs+FA.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "354c4a26d4d407274fe6d59b434148436fa723af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5870784
+project-id = 1133488

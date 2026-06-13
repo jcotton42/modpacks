@@ -1,0 +1,13 @@
+name = "Dragon Rings"
+filename = "dragon_rings-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ab12a1e4b9a31f63ef91f46d4b570a39d883fcf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7389779
+project-id = 1411606

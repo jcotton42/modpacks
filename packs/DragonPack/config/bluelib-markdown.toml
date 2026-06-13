@@ -1,0 +1,63 @@
+[Markdown]
+	#Default is 'true/on'
+	markdownEnabled = true
+
+	[Markdown.Bold]
+		#Default is '**'
+		prefix = "**"
+		#Default is '**'
+		suffix = "**"
+		#Default is 'true/on'
+		boldEnabled = true
+
+	[Markdown.Italic]
+		#Default is '*'
+		prefix = "*"
+		#Default is '*'
+		suffix = "*"
+		#Default is 'true/on'
+		italicEnabled = true
+
+	[Markdown.Underline]
+		#Default is '__'
+		prefix = "__"
+		#Default is '__'
+		suffix = "__"
+		#Default is 'true/on'
+		underlineEnabled = true
+
+	[Markdown.Strikethrough]
+		#Default is '~~'
+		prefix = "~~"
+		#Default is '~~'
+		suffix = "~~"
+		#Default is 'true/on'
+		strikethroughEnabled = true
+
+	[Markdown.Spoiler]
+		#Default is '||'
+		prefix = "||"
+		#Default is '||'
+		suffix = "||"
+		#Default is 'true/on'
+		spoilerEnabled = true
+
+	[Markdown.Hyperlink]
+		#Default is '['
+		prefix = "["
+		#Default is ']'
+		suffix = "]"
+		#Default is 'true/on'
+		hyperlinkEnabled = true
+
+	[Markdown.Color]
+		#Default is '-'
+		prefix = "-"
+		#Default is '-'
+		suffix = "-"
+		#Default is 'true/on'
+		colorEnabled = true
+
+	[Markdown.CopyToClipboard]
+		#Default is 'true/on'
+		copyToClipboardEnabled = true

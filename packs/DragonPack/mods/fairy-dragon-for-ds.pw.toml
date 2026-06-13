@@ -1,0 +1,13 @@
+name = "Fairy Dragon for DS"
+filename = "fairydragon-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "056d464cacfa7c2a1fb5aa61849c1c9025a0f812"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7163659
+project-id = 1348739

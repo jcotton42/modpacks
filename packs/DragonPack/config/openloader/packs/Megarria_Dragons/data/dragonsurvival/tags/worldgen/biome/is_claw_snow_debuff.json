@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#minecraft:is_cold",
+			"required": false
+		},
+		{
+			"id": "#minecraft:is_icy",
+			"required": false
+		},
+		{
+			"id": "#minecraft:is_snowy",
+			"required": false
+		},
+		{
+			"id": "#forge:is_cold",
+			"required": false
+		},
+		{
+			"id": "#forge:is_icy",
+			"required": false
+		},
+		{
+			"id": "#c:is_cold",
+			"required": false
+		},
+		{
+			"id": "#c:is_snowy",
+			"required": false
+		},
+		{
+			"id": "#byg:is_snowy",
+			"required": false
+		}
+	]
+}

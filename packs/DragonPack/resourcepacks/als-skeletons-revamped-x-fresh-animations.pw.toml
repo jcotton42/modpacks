@@ -1,0 +1,13 @@
+name = "AL's Skeletons Revamped x Fresh Animations"
+filename = "AL's Skeletons Revamped+FA 1.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87f95d485482703496a01243384d57c8281da5e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5856248
+project-id = 916842

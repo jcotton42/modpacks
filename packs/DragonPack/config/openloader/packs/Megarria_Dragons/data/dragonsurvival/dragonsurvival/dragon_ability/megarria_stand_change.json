@@ -1,0 +1,319 @@
+{
+	"actions": [
+		{
+			"target_selection": {
+				"target_type": "dragonsurvival:self",
+				"applied_effects": {
+					"entity_effect": [
+						{
+							"effect_type": "dragonsurvival:run_function",
+							"function": "dragonsurvival:megarria_stand_change_up"
+						},
+						{
+							"effect_type": "dragonsurvival:particle",
+							"particle_count": 6.0,
+							"particle_data": {
+								"horizontal_position": {
+									"type": "in_bounding_box"
+								},
+								"horizontal_velocity": {
+									"base": 0.7
+								},
+								"particle": {
+									"type": "minecraft:ash"
+								},
+								"speed": 0.04,
+								"vertical_position": {
+									"type": "in_bounding_box"
+								},
+								"vertical_velocity": {
+									"base": 0.01
+								}
+							}
+						}
+					],
+					"target_conditions": {
+						"condition": "minecraft:all_of",
+						"terms": [
+							{
+								"condition": "minecraft:entity_properties",
+								"entity": "this",
+								"predicate": {
+									"type_specific": {
+										"type": "dragonsurvival:dragon_predicate",
+										"dragon_body": "dragonsurvival:mega_typhus_male"
+									}
+								}
+							},
+							{
+								"condition": "minecraft:inverted",
+								"term": {
+									"condition": "minecraft:entity_properties",
+									"entity": "this",
+									"predicate": {
+										"effects": {
+											"minecraft:unluck": {}
+										}
+									}
+								}
+							}
+						]
+					},
+					"targeting_mode": "allies_and_self"
+				}
+			},
+			"trigger_rate": 1
+		},
+		{
+			"target_selection": {
+				"target_type": "dragonsurvival:area",
+				"applied_effects": {
+					"entity_effect": [
+						{
+							"effect_type": "dragonsurvival:push",
+							"target_direction": {
+								"direction": "looking_at"
+							},
+							"push_force": 2
+						}
+					],
+					"targeting_mode": "non_allies"
+				},
+				"radius": 2
+			},
+			"trigger_rate": 1
+		},
+		{
+			"target_selection": {
+				"target_type": "dragonsurvival:self",
+				"applied_effects": {
+					"entity_effect": [
+						{
+							"effect_type": "dragonsurvival:run_function",
+							"function": "dragonsurvival:megarria_stand_change_down"
+						},
+						{
+							"effect_type": "dragonsurvival:particle",
+							"particle_count": 6.0,
+							"particle_data": {
+								"horizontal_position": {
+									"type": "in_bounding_box"
+								},
+								"horizontal_velocity": {
+									"base": 0.7
+								},
+								"particle": {
+									"type": "minecraft:ash"
+								},
+								"speed": 0.04,
+								"vertical_position": {
+									"type": "in_bounding_box"
+								},
+								"vertical_velocity": {
+									"base": 0.01
+								}
+							}
+						}
+					],
+					"target_conditions": {
+						"condition": "minecraft:all_of",
+						"terms": [
+							{
+								"condition": "minecraft:entity_properties",
+								"entity": "this",
+								"predicate": {
+									"type_specific": {
+										"type": "dragonsurvival:dragon_predicate",
+										"dragon_body": "dragonsurvival:mega_typhus_male_stand"
+									}
+								}
+							},
+							{
+								"condition": "minecraft:inverted",
+								"term": {
+									"condition": "minecraft:entity_properties",
+									"entity": "this",
+									"predicate": {
+										"effects": {
+											"minecraft:unluck": {}
+										}
+									}
+								}
+							}
+						]
+					},
+					"targeting_mode": "allies_and_self"
+				}
+			},
+			"trigger_rate": 1
+		},
+		{
+			"target_selection": {
+				"target_type": "dragonsurvival:self",
+				"applied_effects": {
+					"entity_effect": [
+						{
+							"effect_type": "dragonsurvival:run_function",
+							"function": "dragonsurvival:megarria_stand_change_down_female"
+						},
+						{
+							"effect_type": "dragonsurvival:particle",
+							"particle_count": 6.0,
+							"particle_data": {
+								"horizontal_position": {
+									"type": "in_bounding_box"
+								},
+								"horizontal_velocity": {
+									"base": 0.7
+								},
+								"particle": {
+									"type": "minecraft:ash"
+								},
+								"speed": 0.04,
+								"vertical_position": {
+									"type": "in_bounding_box"
+								},
+								"vertical_velocity": {
+									"base": 0.01
+								}
+							}
+						}
+					],
+					"target_conditions": {
+						"condition": "minecraft:all_of",
+						"terms": [
+							{
+								"condition": "minecraft:entity_properties",
+								"entity": "this",
+								"predicate": {
+									"type_specific": {
+										"type": "dragonsurvival:dragon_predicate",
+										"dragon_body": "dragonsurvival:mega_typhus_female_stand"
+									}
+								}
+							},
+							{
+								"condition": "minecraft:inverted",
+								"term": {
+									"condition": "minecraft:entity_properties",
+									"entity": "this",
+									"predicate": {
+										"effects": {
+											"minecraft:unluck": {}
+										}
+									}
+								}
+							}
+						]
+					},
+					"targeting_mode": "allies_and_self"
+				}
+			},
+			"trigger_rate": 1
+		},
+		{
+			"target_selection": {
+				"target_type": "dragonsurvival:self",
+				"applied_effects": {
+					"entity_effect": [
+						{
+							"effect_type": "dragonsurvival:run_function",
+							"function": "dragonsurvival:megarria_stand_change_up_female"
+						},
+						{
+							"effect_type": "dragonsurvival:particle",
+							"particle_count": 6.0,
+							"particle_data": {
+								"horizontal_position": {
+									"type": "in_bounding_box"
+								},
+								"horizontal_velocity": {
+									"base": 0.7
+								},
+								"particle": {
+									"type": "minecraft:ash"
+								},
+								"speed": 0.04,
+								"vertical_position": {
+									"type": "in_bounding_box"
+								},
+								"vertical_velocity": {
+									"base": 0.01
+								}
+							}
+						}
+					],
+					"target_conditions": {
+						"condition": "minecraft:all_of",
+						"terms": [
+							{
+								"condition": "minecraft:entity_properties",
+								"entity": "this",
+								"predicate": {
+									"type_specific": {
+										"type": "dragonsurvival:dragon_predicate",
+										"dragon_body": "dragonsurvival:mega_typhus_female"
+									}
+								}
+							},
+							{
+								"condition": "minecraft:inverted",
+								"term": {
+									"condition": "minecraft:entity_properties",
+									"entity": "this",
+									"predicate": {
+										"effects": {
+											"minecraft:unluck": {}
+										}
+									}
+								}
+							}
+						]
+					},
+					"targeting_mode": "allies_and_self"
+				}
+			},
+			"trigger_rate": 1
+		}
+	],
+	"activation": {
+		"activation_type": "dragonsurvival:simple",
+		"animations": {
+			"start_and_charging": {
+				"animation_key": "change_stance",
+				"layer": "BASE",
+				"locks_neck": false,
+				"locks_tail": false,
+				"transition_length": 6
+			},
+			"end": {
+				"animation_key": "change_stance",
+				"layer": "BASE",
+				"locks_neck": false,
+				"locks_tail": false,
+				"transition_length": 6
+			}
+		},
+		"cast_time": 1.0,
+		"cooldown": 5.0,
+		"initial_mana_cost": 0.0,
+		"notification": {
+			"usage_blocked": {
+				"translate": "megarria_blocked"
+			}
+		},
+		"sound": {}
+	},
+	"icon": {
+		"texture_entries": [
+			{
+				"from_level": 0,
+				"texture_resource": "dragonsurvival:abilities/mega_typhus/megarria_stand_change_1"
+			},
+			{
+				"from_level": 1,
+				"texture_resource": "dragonsurvival:abilities/mega_typhus/megarria_stand_change_1"
+			}
+		]
+	}
+}

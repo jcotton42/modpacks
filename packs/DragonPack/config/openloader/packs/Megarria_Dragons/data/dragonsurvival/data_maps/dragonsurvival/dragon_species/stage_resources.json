@@ -1,0 +1,53 @@
+{
+	"values": {
+		"dragonsurvival:mega_typhus": {
+			"neoforge:conditions": [
+				{
+					"type": "dragonsurvival:registered",
+					"registry": "dragonsurvival:dragon_species",
+					"value": "dragonsurvival:mega_typhus"
+				}
+			],
+			"dragonsurvival:mega_typhus_adult": {
+				"default_skin": {
+					"glow_skin": "dragonsurvival:textures/dragon/mega_typhus/mega_typhus_adult_glow.png",
+					"skin": "dragonsurvival:textures/dragon/mega_typhus/mega_typhus_adult.png"
+				},
+				"growth_icon": {
+					"hover_icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/mega_typhus_adult_stage_hover.png",
+					"icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/mega_typhus_adult_stage_main.png"
+				}
+			},
+			"dragonsurvival:mega_typhus_ancient": {
+				"default_skin": {
+					"glow_skin": "dragonsurvival:textures/dragon/mega_typhus/mega_typhus_ancient_glow.png",
+					"skin": "dragonsurvival:textures/dragon/mega_typhus/mega_typhus_ancient.png"
+				},
+				"growth_icon": {
+					"hover_icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/mega_typhus_ancient_stage_hover.png",
+					"icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/mega_typhus_ancient_stage_main.png"
+				}
+			},
+			"dragonsurvival:mega_typhus_newborn": {
+				"default_skin": {
+					"glow_skin": "dragonsurvival:textures/dragon/mega_typhus/mega_typhus_newborn_glow.png",
+					"skin": "dragonsurvival:textures/dragon/mega_typhus/mega_typhus_newborn.png"
+				},
+				"growth_icon": {
+					"hover_icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/mega_typhus_newborn_stage_hover.png",
+					"icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/mega_typhus_newborn_stage_main.png"
+				}
+			},
+			"dragonsurvival:mega_typhus_young": {
+				"default_skin": {
+					"glow_skin": "dragonsurvival:textures/dragon/mega_typhus/mega_typhus_young_glow.png",
+					"skin": "dragonsurvival:textures/dragon/mega_typhus/mega_typhus_young.png"
+				},
+				"growth_icon": {
+					"hover_icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/mega_typhus_young_stage_hover.png",
+					"icon": "dragonsurvival:textures/gui/custom/stage/mega_typhus/mega_typhus_young_stage_main.png"
+				}
+			}
+		}
+	}
+}
