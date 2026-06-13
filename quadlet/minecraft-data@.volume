@@ -1,4 +1,6 @@
 [Volume]
+ServiceName=minecraft-data-volume@
+VolumeName=minecraft-data-%i
 Type=bind
 Device=%h/minecraft/%i/data
 

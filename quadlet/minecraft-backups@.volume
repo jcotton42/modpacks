@@ -1,6 +1,8 @@
 [Volume]
+ServiceName=minecraft-backups-volume@
+VolumeName=minecraft-backups-%i
 Type=bind
-Device=%h/minecraft/%i/backup
+Device=%h/minecraft/%i/backups
 
 [Unit]
 RequiresMountsFor=%h/minecraft/%i/backup

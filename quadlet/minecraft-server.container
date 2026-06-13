@@ -1,15 +1,18 @@
 [Unit]
 Description=Minecraft server
 Requires=minecraft-router.service
-Wants=minecraft-backup.service
+Requires=minecraft-data-volume@dragon.service
+After=minecraft-data-volume@dragon.service
+Wants=minecraft-backup@dragon.service
 
 [Container]
-Image=docker.io/itzg/minecraft-server:latest
+Image=docker.io/itzg/minecraft-server:java21
 AutoUpdate=registry
-HostName=minecraft
-Volume=minecraft-data.volume:/data
+HostName=dragon
+Volume=minecraft-data-dragon:/data:z
 Network=minecraft.network
-Label=mc-router.host=minecraft.localhost
+Label=mc-router.host=dragon.localhost
+Environment=VERSION=1.21.1
 Environment=EULA=true
 Environment=UID=0
 Environment=GID=0
