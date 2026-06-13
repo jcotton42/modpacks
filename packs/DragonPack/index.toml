@@ -27666,7 +27666,7 @@ hash = "c981d652da892cc0be047ad3eabbbc872121bd9fed7be66dca44e0efb19800dc"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/dragonsurvival/dragon_penalty/mega_typhus_morning_hunger.json"
-hash = "4ea8f255e72ff321e407ed3f79b92a50cb7df6789a9a64ca5c09e78a39bfee55"
+hash = "3bfcc06f841d47d6443c28f3a269f33c01c65b6d1fd0bddd20260e724536e3c8"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/dragonsurvival/dragon_species/mega_typhus.json"
@@ -55411,6 +55411,11 @@ hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -55581,6 +55586,15 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
+file = "mods/figura-0.1.6-pre.2+1.21.1-neoforge-mc.jar"
+hash = "280d8e837736d691e1d72d04e7a99fea1bbaafcfd2e2f612b12e563ea5c83289"
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "d6590f1ecfee7c8940ead59d5f482b0ac4280dd7a0f8e7152d637457ea06a792"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
@@ -55663,11 +55677,6 @@ metafile = true
 [[files]]
 file = "mods/heyberryshutup.pw.toml"
 hash = "bb45fd8d63908c2c96b96d6b863a748b0d673b37310af207bb352c007af05dd0"
-metafile = true
-
-[[files]]
-file = "mods/hide-hands.pw.toml"
-hash = "b6f4955b3e54b6f713b7b4fd530bb2481a9f02fb27497d59f2bc588f360fc04e"
 metafile = true
 
 [[files]]
@@ -55851,6 +55860,11 @@ hash = "dccfa52b3ea9eca8a5265ef89ceb0c5403f4e23360a26afc64bf111e39abfe64"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "dde4d08197acbd026127ab3a7f1de5c1796b54e1cd878a1bee2be9eab4aa77bf"
+metafile = true
+
+[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
@@ -55973,6 +55987,11 @@ metafile = true
 [[files]]
 file = "mods/ruins.pw.toml"
 hash = "6298a8dc72b80271f35e8198b0336c423223100266c752b86c8575d6928e501d"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
