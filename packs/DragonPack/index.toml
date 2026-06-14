@@ -646,7 +646,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/effects.json"
-hash = "26cb181b7f7250de68cf947e67295ba476e741d5dc662cb4345c526217193c3e"
+hash = "26ebacab1a38a592ed2603ee2f99f6e7ca3756adda56eab4c9bbe1a8dc4645f3"
 
 [[files]]
 file = "config/incontrol/events.json"
@@ -662,7 +662,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/loot.json"
-hash = "5194f0b190680fd1870d4c064eb78242f3514b76c5b45b5f7ca0cb9ebcde1878"
+hash = "a315f26ec0ee5bbf047c66561eccf01da4119c41be7323216ddc66ee8b0ed558"
 
 [[files]]
 file = "config/incontrol/phases.json"
@@ -678,11 +678,11 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "c116b0d2533b3772eb8145f2808912b9a5a436d1dccb75cdf13aafe96c1f9dcb"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/spawner.json"
-hash = "966be54a4b112b30cbc70922f523fb492686ffda6daa61e6e9f8867911aa1b68"
+hash = "1b73022050d4915dd49f793f4310c362ddeeb89625a3c406e844e1ea139b438d"
 
 [[files]]
 file = "config/incontrol/special.json"
@@ -27986,7 +27986,7 @@ hash = "83d474628b1c3aedf359adf05b6792364deda80f4053475fdf9b0c1ad864b957"
 
 [[files]]
 file = "config/starterkit/kits/Kit_1.txt"
-hash = "7bbcd8f3e8e06a27b406a2f2d29e80f159abfe866ba045186b87cfa50388dd90"
+hash = "384978762ab6dd353cd5aef5040652dedbeace6dd5fe9c5a72775378cad5ddef"
 
 [[files]]
 file = "config/stoneworks-common.toml"
@@ -55441,8 +55441,18 @@ hash = "121fdf97f418c2c32f3f4c381c279e0cc12a07c976ddcb9de2517bc434a87bda"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+metafile = true
+
+[[files]]
 file = "mods/create-compressed.pw.toml"
 hash = "a946542ae4970e35a3f721b16872d2c66e62235778eb640c4102c1faaa008b3e"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
@@ -55986,6 +55996,11 @@ hash = "6298a8dc72b80271f35e8198b0336c423223100266c752b86c8575d6928e501d"
 metafile = true
 
 [[files]]
+file = "mods/sable.pw.toml"
+hash = "07c1d1a846572a60bf88dc54977d9a65d20f74c19209cb82e8d7dfe0d3cdfadf"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -56003,6 +56018,11 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
 metafile = true
 
 [[files]]
@@ -56043,6 +56063,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-stick-edition.pw.toml"
+hash = "c309859ec7bfeb79de31cb914ae4f85eb56a2dcc2a3b92fd83e8aae8d1b37e5d"
 metafile = true
 
 [[files]]
@@ -56113,6 +56143,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "3f4ccf8820921a043753e0023173cc7eb225e19fef2ceaeeb0ebd8b2fb7a0c5d"
+metafile = true
+
+[[files]]
+file = "mods/tree-physics.pw.toml"
+hash = "8cae6c718dafeaa193d7dc3b3ffd13237e2f6a3709fde5bedee887ab8cc556ec"
 metafile = true
 
 [[files]]

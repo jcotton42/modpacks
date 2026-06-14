@@ -1,0 +1,13 @@
+name = "Spice of Life: Stick Edition"
+filename = "solstick-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66fd40fa351073d23f2e2ee6ab584045d769b92f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8058176
+project-id = 1479771
