@@ -3,11 +3,11 @@ filename = "collectors_caravan-8.5.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7a979021191d69212cfed3f44bb202d4daee3db4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AF7VX19e/versions/7fRvbUUw/collectors_caravan-8.5.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "6ca54c7334974b12fe23a601df96a59b0cf32fb3170deff3027c8eed900799f6f4296b17521466463bc899c47997c7b00bf1b2d4b7414c03d7cdb31f0db6bca0"
 
 [update]
-[update.curseforge]
-file-id = 7942628
-project-id = 1070090
+[update.modrinth]
+mod-id = "AF7VX19e"
+version = "7fRvbUUw"

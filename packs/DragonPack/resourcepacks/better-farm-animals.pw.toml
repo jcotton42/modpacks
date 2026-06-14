@@ -1,13 +1,13 @@
 name = "Better Farm Animals"
 filename = "Better_Farm_Animals_v0.08.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "29140de4e9c1952a8b8140ae2ae3d3b445082f8d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oUSJyuav/versions/fwIlkOEr/Better_Farm_Animals_v0.08.zip"
+hash-format = "sha512"
+hash = "38ab62e8b4413db4feb873163e0f4b53cb692314ba70f067b7b46851ffe9f96ae48f3c95876f1460a569f62b124cbc1f1f603b91f09e0bd571ea6150e287e8e7"
 
 [update]
-[update.curseforge]
-file-id = 5621787
-project-id = 656215
+[update.modrinth]
+mod-id = "oUSJyuav"
+version = "fwIlkOEr"

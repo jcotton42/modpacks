@@ -1,6 +1,6 @@
 name = "Fresh Better Turtle Variants"
 filename = "FreshTurtleVariants1.21-1.21.4V1.2.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

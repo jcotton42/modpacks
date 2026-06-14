@@ -1,0 +1,13 @@
+name = "Aures - Torchmaster Remaster"
+filename = "Torchmaster Remaster_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VEiIeYzq/versions/ObbV22EM/Torchmaster%20Remaster_1.0.zip"
+hash-format = "sha512"
+hash = "f5a890ce3fa332b8469aa58114a5f78bf6ad7a962087ad0262cf7cbeb87f847ebfbef1069bafec9e28cd1bdd4c1bb5cf885ad745c5b003723a58df594a4cfa87"
+
+[update]
+[update.modrinth]
+mod-id = "VEiIeYzq"
+version = "ObbV22EM"

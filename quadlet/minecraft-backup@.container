@@ -1,0 +1,11 @@
+[Unit]
+Description=Backups for Minecraft
+
+[Container]
+Image=docker.io/itzg/mc-backup:latest
+AutoUpdate=registry
+Volume=minecraft-data@.volume:/data:ro,z
+Volume=minecraft-backups@.volume:/backups:Z
+Network=minecraft.network
+Environment=RCON_HOST=%i
+Secret=minecraft-rcon-password,type=env,target=RCON_PASSWORD

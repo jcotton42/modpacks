@@ -1,6 +1,6 @@
 name = "AL's Skeletons Revamped x Fresh Animations"
 filename = "AL's Skeletons Revamped+FA 1.4.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,0 +1,14 @@
+[Unit]
+Description=RCON web portal
+
+[Container]
+Image=docker.io/itzg/rcon:latest
+AutoUpdate=registry
+Network=minecraft.network
+Environment=RWA_RCON_HOST=dragon-pack
+Environment=RWA_ADMIN=TRUE
+Environment=RWA_USERNAME=joshua
+Environment=RWA_PASSWORD=changeme
+Secret=minecraft-rcon-password,type=env,target=RWA_RCON_PASSWORD
+PublishPort=4326:4326
+PublishPort=4327:4327

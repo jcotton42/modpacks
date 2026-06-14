@@ -1,0 +1,17 @@
+[Unit]
+Description=Minecraft router
+Requires=podman.socket
+After=podman.socket
+
+[Container]
+Image=docker.io/itzg/mc-router:latest
+AutoUpdate=registry
+Mount=type=bind,src=%t/podman/podman.sock,dst=/var/run/docker.sock
+# SELinux denies socket dialing without this
+SecurityLabelDisable=true
+Network=minecraft.network
+PublishPort=25565:25565
+Environment=IN_DOCKER=true
+
+[Install]
+WantedBy=default.target
