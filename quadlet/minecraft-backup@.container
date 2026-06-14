@@ -1,5 +1,5 @@
 [Unit]
-Description=Backups for Minecraft
+Description=Backups for Minecraft %i
 
 [Container]
 Image=docker.io/itzg/mc-backup:latest
@@ -7,5 +7,11 @@ AutoUpdate=registry
 Volume=minecraft-data@.volume:/data:ro,z
 Volume=minecraft-backups@.volume:/backups:Z
 Network=minecraft.network
+Environment=BACKUP_INTERVAL=24h
+Environment=BACKUP_NAME=%i
+Environment=BACKUP_METHOD=restic
+Environment=EXCLUDES=cache,logs,tmp
 Environment=RCON_HOST=%i
+Environment=RESTIC_REPOSITORY=/backups
 Secret=minecraft-rcon-password,type=env,target=RCON_PASSWORD
+Secret=minecraft-restic-password,type=env,target=RESTIC_PASSWORD
