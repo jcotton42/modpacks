@@ -56131,10 +56131,6 @@ hash = "b46051a60cad8b4108147daffa26fbda71cea967f9b8329604e930329106680f"
 metafile = true
 
 [[files]]
-file = "mods/voxy-neoforge-0.1.4.jar"
-hash = "3bff11b38f3a3857f89375b2e9e4857dd8e4942c58279e9b40146ea32d83e6a6"
-
-[[files]]
 file = "mods/wakes-reforged.pw.toml"
 hash = "a4936281b7fdf6005961596c6f2b952c8f1bc62b16138630492b57aa0629366c"
 metafile = true
