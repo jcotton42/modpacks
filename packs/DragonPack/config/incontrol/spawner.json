@@ -1,6 +1,9 @@
 [
   {
-    "mob": ["minecraft:cod", "minecraft:salmon"],
+    "mob": [
+      "minecraft:cod",
+      "minecraft:salmon"
+    ],
     "persecond": 0.8,
     "attempts": 5,
     "amount": {
@@ -9,15 +12,17 @@
     },
     "conditions": {
       "dimension": "minecraft:overworld",
-	  "inwater": true,
+      "inwater": true,
       "mindist": 25,
       "maxdist": 100,
       "maxheight": 30,
-	  "minheight": -64
+      "minheight": -64
     }
   },
   {
-    "mob": ["minecraft:drowned"],
+    "mob": [
+      "minecraft:drowned"
+    ],
     "persecond": 0.3,
     "attempts": 10,
     "amount": {
@@ -26,15 +31,17 @@
     },
     "conditions": {
       "dimension": "minecraft:overworld",
-	  "inwater": true,
+      "inwater": true,
       "mindist": 40,
       "maxdist": 100,
       "maxheight": 40,
-	  "minheight": -64
+      "minheight": -64
     }
   },
   {
-    "mob": ["minecraft:stray"],
+    "mob": [
+      "minecraft:stray"
+    ],
     "persecond": 0.3,
     "attempts": 6,
     "amount": {
@@ -46,11 +53,13 @@
       "mindist": 25,
       "maxdist": 100,
       "maxheight": 1,
-	  "minheight": -64
+      "minheight": -64
     }
   },
   {
-    "mob": ["minecraft:phantom"],
+    "mob": [
+      "minecraft:phantom"
+    ],
     "persecond": 0.1,
     "attempts": 1,
     "amount": {
@@ -62,7 +71,7 @@
       "mindist": 30,
       "maxdist": 100,
       "maxheight": 180,
-	  "minheight": -64
+      "minheight": -64
     }
   }
 ]
