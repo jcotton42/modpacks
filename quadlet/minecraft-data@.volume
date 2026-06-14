@@ -4,5 +4,8 @@ VolumeName=minecraft-data-%i
 Type=bind
 Device=%h/minecraft/%i/data
 
+[Service]
+ExecStartPre=mkdir -p "%h/minecraft/%i/data"
+
 [Unit]
 RequiresMountsFor=%h/minecraft/%i/data

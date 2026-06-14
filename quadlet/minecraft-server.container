@@ -8,7 +8,7 @@ Wants=minecraft-backup@dragon.service
 [Container]
 Image=docker.io/itzg/minecraft-server:java21
 AutoUpdate=registry
-HostName=dragon
+HostName=minecraft-test
 Volume=minecraft-data-dragon:/data:z
 Network=minecraft.network
 Label=mc-router.host=dragon.localhost

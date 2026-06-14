@@ -5,7 +5,7 @@ Description=RCON web portal
 Image=docker.io/itzg/rcon:latest
 AutoUpdate=registry
 Network=minecraft.network
-Environment=RWA_RCON_HOST=dragon
+Environment=RWA_RCON_HOST=dragon-pack
 Environment=RWA_ADMIN=TRUE
 Environment=RWA_USERNAME=joshua
 Environment=RWA_PASSWORD=changeme
