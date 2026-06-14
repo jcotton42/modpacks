@@ -1,12 +1,12 @@
-name = "Play as Dragon Comfort Edition"
-author = "BlackAuresArt"
-version = "3.0"
+name = "Play as Dragon Aether Edition"
+author = "jcotton42, BlackAuresArt"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "01b884603e7ee0390c3e31a04da8723a58bad59ab121796dfd098ce6e8462ae7"
+hash = "d060e303b839bf170b4205ce6b9d267077e28fd785c13f74aecc94a8df1f2cb4"
 
 [versions]
 minecraft = "1.21.1"

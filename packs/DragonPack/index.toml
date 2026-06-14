@@ -55562,7 +55562,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "f9398de9ed43f360533cd4a58763a48ccc0674ab7943401e297d1f4a58e775e7"
+hash = "d148bdbcbbe124240edd8aad0ca8d8a082c2ea5f748236bc473bd9ecedaf5753"
 metafile = true
 
 [[files]]
@@ -55582,12 +55582,8 @@ metafile = true
 
 [[files]]
 file = "mods/figura-0-1-6-pre-2-1-21-1-neoforge-mc-jar.pw.toml"
-hash = "6ac1207ceba9249a1c03ec71043be06a9bbc8058a3f8ee2d75407808deb0841c"
+hash = "77f8cdd528a2770efb1bda853dff5811f8a8640671fa7f8d0441626bf8e3508a"
 metafile = true
-
-[[files]]
-file = "mods/figura-0.1.6-pre.2+1.21.1-neoforge-mc.jar"
-hash = "280d8e837736d691e1d72d04e7a99fea1bbaafcfd2e2f612b12e563ea5c83289"
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
