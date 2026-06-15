@@ -250,7 +250,7 @@ hash = "a37a4890922a9b03de8100066637fc9cfb47c8b1dac3e3b40e7234e6b2d087f9"
 
 [[files]]
 file = "config/dragonsurvival-server.toml"
-hash = "ee8e89f60739f83689c625bb17ff5642613323393cc2202c6688e19f96762113"
+hash = "2dd5d67c6f2008ef30d6bf8ff5e037cf2122f8aa0c274733206238ebcb2b4129"
 
 [[files]]
 file = "config/dramaticdoors-startup.toml"
@@ -646,7 +646,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/effects.json"
-hash = "26ebacab1a38a592ed2603ee2f99f6e7ca3756adda56eab4c9bbe1a8dc4645f3"
+hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
 file = "config/incontrol/events.json"
@@ -27986,7 +27986,7 @@ hash = "83d474628b1c3aedf359adf05b6792364deda80f4053475fdf9b0c1ad864b957"
 
 [[files]]
 file = "config/starterkit/kits/Kit_1.txt"
-hash = "384978762ab6dd353cd5aef5040652dedbeace6dd5fe9c5a72775378cad5ddef"
+hash = "def0a87791f5359ffad5ee0395a177e0fa0cc3fd7bb3617d4b043c58112f3b3d"
 
 [[files]]
 file = "config/stoneworks-common.toml"
@@ -28043,6 +28043,10 @@ hash = "4765c6a67959c7a4c0e5366eb28b13f4188577d8e54bde7d07b0adc9f92bb3ad"
 [[files]]
 file = "config/tradingpost-server.toml"
 hash = "786927374dcd74929a3b069fd7b8774e165ac3eec900c99c23e755d1cc9a3b43"
+
+[[files]]
+file = "config/treephysics-common.toml"
+hash = "d66620c67f151601265636ac23292fab150459a0bf0b89113894c92dd077f46d"
 
 [[files]]
 file = "config/undergarden-client-1.toml.bak"
