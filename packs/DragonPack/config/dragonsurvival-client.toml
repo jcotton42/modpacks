@@ -126,7 +126,7 @@
 	#If enabled custom skins of other players will be rendered
 	render_other_players_custom_skins = true
 	#If enabled the dragon body will be visible in first person
-	render_dragon_in_first_person = true
+	render_dragon_in_first_person = false
 	#The scale at which the dragon's third person camera will stop zooming in
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0

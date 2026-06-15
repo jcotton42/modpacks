@@ -238,7 +238,7 @@ hash = "e4c84fc220637db4a44259a17a68ba68c2c6508ac25e9c1313f3df4617911f2a"
 
 [[files]]
 file = "config/dragonsurvival-client.toml"
-hash = "ea0ae322430bcd1bf8b5abe00dccd4297381ba0220517049b9f5882a3ee9bad3"
+hash = "408bda116f1d8b92e2983e2a9cf9899998eb3e21e536ac631499cc5200ca3dcd"
 
 [[files]]
 file = "config/dragonsurvival-server-1.toml.bak"
