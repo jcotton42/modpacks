@@ -27789,26 +27789,6 @@ file = "config/openloader/packs/No_crushing_for_ancient/pack.png"
 hash = "8c7c988499113ea95965307a4cb5b54578668cdbc3ced4e1199be90ecd0eedf1"
 
 [[files]]
-file = "config/oreexcavation-client.toml"
-hash = "2a365c7a53b9bada08b609ef2fb08fb43450b47d880ba16880a6eb6cf7badfe4"
-
-[[files]]
-file = "config/oreexcavation-common.toml"
-hash = "53c842badf9584a962c7dd8c72c6aca448c4905f319add456285a1f37413046c"
-
-[[files]]
-file = "config/oreexcavation/block_groups.json"
-hash = "c10846e015d2fb6bdbaf3c3271ae6a2ee17c31596949793b401cd390be091510"
-
-[[files]]
-file = "config/oreexcavation/shapes.json"
-hash = "2a2429b18ea0ef737d05653964fa5443a2a80cf5b4d80e0f9b8a6022df34bb0d"
-
-[[files]]
-file = "config/oreexcavation/tool_overrides.json"
-hash = "a456dc73234254ee94ddb1a3a6461729127c85b833370c83bb945a3d14e5344e"
-
-[[files]]
 file = "config/particular-common.toml"
 hash = "555603afc42e8a7dd9d9f3414b0420b99d84e2bab2b0a4bf39933784a5ba5929"
 
@@ -55181,14 +55161,6 @@ file = "defaultconfigs/openloader/packs/Comfort_No_Penalties/pack.png"
 hash = "24331b5b85c95601d7820543801ab47acadbe4e3e103ccc197e340b6e89bc2d0"
 
 [[files]]
-file = "defaultconfigs/oreexcavation-client.toml"
-hash = "2a365c7a53b9bada08b609ef2fb08fb43450b47d880ba16880a6eb6cf7badfe4"
-
-[[files]]
-file = "defaultconfigs/oreexcavation-common.toml"
-hash = "53c842badf9584a962c7dd8c72c6aca448c4905f319add456285a1f37413046c"
-
-[[files]]
 file = "defaultconfigs/pickupnotifier/pickupnotifier-client.toml"
 hash = "1cd153598e1e6b099db5afe5e867f512f46873afcb4b1abe911c7d8ff42e8864"
 
@@ -55526,7 +55498,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "b8a573fb90e6416ad88c42041e2f148121749f3f2548b8b67c5d1c90fa608f08"
+hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
 metafile = true
 
 [[files]]
@@ -55892,11 +55864,6 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
-metafile = true
-
-[[files]]
-file = "mods/ore-excavation.pw.toml"
-hash = "8a32a12fac64157e5773f60611f565e1335c4d5b9b5c7f679de5f70dc65e6409"
 metafile = true
 
 [[files]]
