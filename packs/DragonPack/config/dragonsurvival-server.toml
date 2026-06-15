@@ -326,23 +326,23 @@
 		#Determines the chance (in %) of bones dropping when a human harvests an ore block
 		# Default: 0.0
 		# Range: 0.0 ~ 1.0
-		human_ore_bone_chance = 0.0
+		human_ore_bone_chance = 0.01
 		#Require the ore to drop experience for it to drop dragon ore items
 		require_experience_drop_for_dragon_ore = true
 		#Determines the chance (in %) of dust dropping when a human harvests an ore block
 		# Default: 0.1
 		# Range: 0.0 ~ 1.0
-		human_ore_dust_chance = 0.1
+		human_ore_dust_chance = 0.2
 
 [growth]
 	#If enabled the current growth will be saved for the current dragon species when changing types or reverting back to being a human
-	save_growth_stage = false
+	save_growth_stage = true
 
 	[growth.big_dragon]
 		#The amount of ticks (20 ticks = 1 second) before an entity can be crushed again
 		# Default: 20
 		# Range: 0 ~ 20
-		crushing_interval = 20
+		crushing_interval = 10
 		#Determines the percentage chance that a block is removed, bypassing sound or particle effects
 		#This is to avoid potential lag issues due to large amounts of sound effects or particles
 		# Default: 0.96
@@ -416,7 +416,7 @@
 	#Determines the amount of ticks (20 ticks = 1 second) it takes for one hunger point to be drained while flying
 	# Default: 50
 	# Range: > 1
-	flight_hunger_ticks = 50
+	flight_hunger_ticks = 100
 	#Dragons will take damage from colliding whilst glide-flying (similar to elytra).
 	enable_collision_damage = true
 	#Determines the required food values to be able to fly
@@ -472,7 +472,7 @@
 	#Chance of getting poisoned from eating non-dragon food
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
-	bad_food_poison_chance = 0.5
+	bad_food_poison_chance = 0.0
 	#Disable all modifications that dragon survival does to the food system. Some mods will have this setting automatically enabled (such as TFC).
 	disable_dragon_food_handling = false
 

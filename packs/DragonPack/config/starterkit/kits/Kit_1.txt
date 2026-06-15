@@ -39,4 +39,4 @@
 33 : '',
 34 : '',
 35 : '',
-'effects' : 'dragonsurvival:animal_peace;lvl:1;duration:870',
+'effects' : '',
