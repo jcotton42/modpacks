@@ -27789,6 +27789,10 @@ file = "config/openloader/packs/No_crushing_for_ancient/pack.png"
 hash = "8c7c988499113ea95965307a4cb5b54578668cdbc3ced4e1199be90ecd0eedf1"
 
 [[files]]
+file = "config/openloader/packs/vaartok_nsfw.zip"
+hash = "4da4329449295ed18e5a1206891c2dd2a96de612c412a4f670d3b4053eb2e715"
+
+[[files]]
 file = "config/particular-common.toml"
 hash = "555603afc42e8a7dd9d9f3414b0420b99d84e2bab2b0a4bf39933784a5ba5929"
 
