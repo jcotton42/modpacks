@@ -55223,7 +55223,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloyance-1.21.1-0.0.1-alpha.jar"
-hash = "f09a9bf30e1507e632969751885f179f4c8a5169b327b00b1cda109c51f3aeac"
+hash = "7ec2caeff26589e1be0bb521351be7e8e7a0a240476804db8da181c809362200"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
