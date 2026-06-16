@@ -55436,6 +55436,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "28e720db43464fe32b9ce591fb02b824ebf691c578fb694f87a98421d3207022"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "d1dd0981cbd7ae9601c9c4603f88826b68a0c7e76fc12ef6bc80f08188d7dfb8"
 metafile = true
@@ -55591,6 +55596,11 @@ hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
 
 [[files]]
+file = "mods/flerovium.pw.toml"
+hash = "7ba48f4f7678f04ee2a2e5feb65c7bdf703a882486514686732e334a8c8dba5a"
+metafile = true
+
+[[files]]
 file = "mods/flower-patch.pw.toml"
 hash = "e4c19b685564ad8269c34bec7cd2f530b6e2ae19cbd0ca35b0a2d3965287d086"
 metafile = true
@@ -55668,6 +55678,11 @@ metafile = true
 [[files]]
 file = "mods/heyberryshutup.pw.toml"
 hash = "bb45fd8d63908c2c96b96d6b863a748b0d673b37310af207bb352c007af05dd0"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
