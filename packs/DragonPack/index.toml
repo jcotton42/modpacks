@@ -56171,11 +56171,6 @@ hash = "3f4ccf8820921a043753e0023173cc7eb225e19fef2ceaeeb0ebd8b2fb7a0c5d"
 metafile = true
 
 [[files]]
-file = "mods/tree-physics.pw.toml"
-hash = "8cae6c718dafeaa193d7dc3b3ffd13237e2f6a3709fde5bedee887ab8cc556ec"
-metafile = true
-
-[[files]]
 file = "mods/tundra-dragon-dragon-survival-add-on.pw.toml"
 hash = "4ead674cc720916bb914a2e86e1873a332f3dac4f6c0a7fa5abd38600ef9a41a"
 metafile = true
