@@ -1,0 +1,13 @@
+name = "Dragons Eat People"
+filename = "humanfleshds-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RM0LcKPs/versions/FyXYuwqP/humanfleshds-1.0.jar"
+hash-format = "sha512"
+hash = "88d740b2156b15adeafe038cadc12e3b333ede4d5d7ca1d8c63560a882b1812a17ea27d95409593f75cf727ae7bc4a56bc648a8576b81aa3dbd04254b91c8203"
+
+[update]
+[update.modrinth]
+mod-id = "RM0LcKPs"
+version = "FyXYuwqP"

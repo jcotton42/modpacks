@@ -1,0 +1,13 @@
+name = "Chatty Dragons"
+filename = "dragon_voice-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82afaa931c85c07bec0b9724b8f8b48f3c637c30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8356085
+project-id = 1594858

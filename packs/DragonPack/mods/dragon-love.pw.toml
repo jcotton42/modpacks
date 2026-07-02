@@ -1,0 +1,13 @@
+name = "Dragon Love"
+filename = "dragonlove-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b76fff50aa5f7204ac65be93814acb6474126480"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8287932
+project-id = 1565237

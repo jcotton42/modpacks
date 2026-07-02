@@ -1,0 +1,13 @@
+name = "Dragon Survival: IAF Integration"
+filename = "dragon_survival_iaf_integration-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NhUbCMsS/versions/bEyd9Tl6/dragon_survival_iaf_integration-1.2.3.jar"
+hash-format = "sha512"
+hash = "00876f5a18a89d084470ca1372d86930b6cbd6d4f35c592b8319bdadd0f0aa4ade19f7469016c955b2a2bfe59cc4a405dee099078b50531c74c3035e90a4c4e3"
+
+[update]
+[update.modrinth]
+mod-id = "NhUbCMsS"
+version = "bEyd9Tl6"

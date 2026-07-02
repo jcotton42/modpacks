@@ -55336,6 +55336,11 @@ hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
 
 [[files]]
+file = "mods/chatty-dragons.pw.toml"
+hash = "e9cc8dcf40ef6e61d253ef71c54463fda290060d16e36e601879dadc5e8ad072"
+metafile = true
+
+[[files]]
 file = "mods/claustrophobic-dungeons.pw.toml"
 hash = "547e832b73feb2234bb269a53fc7f3c1bc5863a7a96782891a0024575e3c521b"
 metafile = true
@@ -55496,6 +55501,11 @@ hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
+file = "mods/dragon-love.pw.toml"
+hash = "88139576ddec20b06a0e0df67dfeb4c67e7e791b9ed9909a60df071e17e6583d"
+metafile = true
+
+[[files]]
 file = "mods/dragon-rings.pw.toml"
 hash = "8eb14a71cdddddfd0c75eee45e2ec4971ed25e3f6fb5cf05627dc7f7f2e5c774"
 metafile = true
@@ -55503,6 +55513,16 @@ metafile = true
 [[files]]
 file = "mods/dragon-survival-griffin-addon.pw.toml"
 hash = "bbaa6a43559e95a62b1162d438d4a3172ee3a75b72afa8f517eff88cfd20eeb6"
+metafile = true
+
+[[files]]
+file = "mods/dragon-survival-iaf-integration.pw.toml"
+hash = "30b518051a5f558cff588b1dfaea0f5143d280c5b4f65b9706626b084256604c"
+metafile = true
+
+[[files]]
+file = "mods/dragons-eat-people.pw.toml"
+hash = "0966fbac8d14491f154eac73825f0d63ee2707de806d5cc38821410a0a7b1a0e"
 metafile = true
 
 [[files]]
@@ -55686,6 +55706,11 @@ hash = "bb45fd8d63908c2c96b96d6b863a748b0d673b37310af207bb352c007af05dd0"
 metafile = true
 
 [[files]]
+file = "mods/iceandfire-ce.pw.toml"
+hash = "1b623bb4261ecb6778b8adbc5b343802c15229dd08e44dfa0087f95d06f869eb"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
@@ -55723,6 +55748,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "3f44721c554a06b9e922c6102bed6402fed57d6d340de0299ee4237544724c48"
 metafile = true
 
 [[files]]
@@ -56188,6 +56218,11 @@ metafile = true
 [[files]]
 file = "mods/underwater-enchanting.pw.toml"
 hash = "b46051a60cad8b4108147daffa26fbda71cea967f9b8329604e930329106680f"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
 metafile = true
 
 [[files]]
