@@ -55501,11 +55501,6 @@ hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
-file = "mods/dragon-love.pw.toml"
-hash = "88139576ddec20b06a0e0df67dfeb4c67e7e791b9ed9909a60df071e17e6583d"
-metafile = true
-
-[[files]]
 file = "mods/dragon-rings.pw.toml"
 hash = "8eb14a71cdddddfd0c75eee45e2ec4971ed25e3f6fb5cf05627dc7f7f2e5c774"
 metafile = true
