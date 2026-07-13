@@ -1,5 +1,7 @@
-{"replace": true,
+{
+	"replace": true,
 	"values": [
+		"dragonsurvival:amphibious",
 		"dragonsurvival:storm_breath",
 		"dragonsurvival:forest_breath",
 		"dragonsurvival:nether_breath",
@@ -10,6 +12,7 @@
 		"dragonsurvival:sea_magic",
 		"dragonsurvival:megarria_food_check",
 		"dragonsurvival:megarria_immunity",
-		"dragonsurvival:sea_wings"
+		"dragonsurvival:sea_wings",
+		"dragonsurvival:sea_spin"
 	]
 }
