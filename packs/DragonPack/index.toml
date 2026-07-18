@@ -27821,6 +27821,10 @@ file = "config/prettyrain-client.toml"
 hash = "74414adc993726b0dcb4e853d7a80ef1ffda35aa2ef1b1dc78585776b2f2fa86"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "7403757af3107bc69c738263d1d00921293915ebc075fe21bb8d6774c9c3b100"
+
+[[files]]
 file = "config/regions_unexplored/client.json"
 hash = "219a24a03c06a9171e1b04e1bd361a9332905dd79d0b94a4c805b4358a41ee1d"
 
