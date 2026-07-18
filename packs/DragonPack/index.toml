@@ -27086,19 +27086,19 @@ hash = "24331b5b85c95601d7820543801ab47acadbe4e3e103ccc197e340b6e89bc2d0"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/animations/mega_typhus_female_animations.json"
-hash = "5437e1e6a8df4a3a1e7825594e15cdbe8dbafb38224c4a2871712a8852b4b5a7"
+hash = "2a51dc1cb6566bd459b49e29ce0b85c6cce43f380c416179fc02d2ad41f6245d"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/animations/mega_typhus_female_stand_animations.json"
-hash = "a7a30eb2b39cad2fa057cf5cf50d0295aab9475c6e0bd06b1100f8d92eb53921"
+hash = "c43dd01ca03030bed5e807c7e676b904e68d38275afac7694ab9d90ef79cb12b"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/animations/mega_typhus_male_animations.json"
-hash = "558dab0afd2819fc2098c9717704cba1efe1b610afd3a02755e5cfb294190ff4"
+hash = "dfdaccac0568f872edd0bd4710f7b06041f2d1ed230136fd7c52775e9b4874ef"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/animations/mega_typhus_male_stand_animations.json"
-hash = "37827fd720406af058432f1eaebdff8e028f1aa064d10ea32af729ebf80547b9"
+hash = "b78a79a07abad5468c4c307c1c5c94f549acdb231efedca29b59720094ee9817"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/colors.py"
@@ -27721,24 +27721,12 @@ file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/function/me
 hash = "17aa8bceebc2b98e8907f840bb8668942f217ca7c6f8d5087e39c5b2466dc091"
 
 [[files]]
-file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/block/is_can_sharpen_claws.json"
-hash = "44330a029266226eed90c37c7286a4b1bc7c57835446f748a0b5bd03012aa48c"
-
-[[files]]
-file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/block/is_claw_monster_cold.json"
-hash = "da96d7007f38e37197fa542678115708d4bb425498e248b1a2e83e50fb57848f"
-
-[[files]]
-file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/damage_type/is_radiation.json"
-hash = "c861c8ecfc44a854913f9bfd338f5f00f5a98f2b0bbb045fdebfd7d806c0d1a9"
-
-[[files]]
 file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/dragonsurvival/dragon_ability/mega_typhus.json"
-hash = "4c06af1dcdf1e8ef5692e9c29f2ea534f7c4f182e273dced179a46dbb5d76bc6"
+hash = "47b68f2db1f90c10e6ad35ae73176fb918a7e0b8fe74fb8b7f8b1f20222a5ffa"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/dragonsurvival/dragon_ability/order.json"
-hash = "1b12f16a3ac9cd10d61531b39edcc265dc58cf87f1b6224fcb47d595a100c346"
+hash = "640abc57ada6832d1595d1ce1f043e64ed47559e7429d88577cc9b4ca2168cfa"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/dragonsurvival/dragon_penalty/mega_typhus.json"
@@ -27747,26 +27735,6 @@ hash = "f1b0c0727765de2b7e6cae4ac53337f526ab5fa1ae07ee24c99cc2f8b1734a1a"
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/dragonsurvival/dragon_species/mega_typhus.json"
 hash = "cfbe8b774f5250e7f3558f013be909b4b7c905f73ea4d8bd270dbe6f8ad048d4"
-
-[[files]]
-file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/entity_type/claw_monster_animal_avoid_blacklist.json"
-hash = "05934919081163119404c87385f559e4760a1ade1a0040ce37f6e523c940e933"
-
-[[files]]
-file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/entity_type/not_affected_by_roar.json"
-hash = "e6af4227b3bfa1872e8e352f6ec8722e29c145f4bc9fb951a81895ce88c2869b"
-
-[[files]]
-file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/entity_type/not_restore_claw_mana.json"
-hash = "2519596a916155ec30f7a71de7faedb740056db90642795ac6cfb8a4a1ec0126"
-
-[[files]]
-file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/worldgen/biome/is_claw_desert_buff.json"
-hash = "a252c9f68d620f21074d1bed7e457903da3ef5bb3cfb415c53155df9b02b2628"
-
-[[files]]
-file = "config/openloader/packs/Megarria_Dragons/data/dragonsurvival/tags/worldgen/biome/is_claw_snow_debuff.json"
-hash = "83d572dbfeb61444882f3b9277c3987d33ab16f663a764e87b1e4d9ad5534d09"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/pack.mcmeta"
