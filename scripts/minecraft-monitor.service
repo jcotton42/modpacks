@@ -1,0 +1,11 @@
+[Unit]
+Description=Monitors containers, but mostly Minecraft servers
+
+[Service]
+Type=simple
+ExecStart=%h/.local/bin/minecraft-monitor.py
+EnvironmentFile=%h/.config/minecraft-monitor/secrets
+Environment=CONTAINERS_TO_WATCH=systemd-minecraft-router,systemd-minecraft-dragon-pack-backup,systemd-minecraft-dragon-pack
+
+[Install]
+WantedBy=default.target
