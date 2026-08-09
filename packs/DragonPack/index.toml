@@ -27757,8 +27757,12 @@ file = "config/openloader/packs/No_crushing_for_ancient/pack.png"
 hash = "8c7c988499113ea95965307a4cb5b54578668cdbc3ced4e1199be90ecd0eedf1"
 
 [[files]]
+file = "config/openloader/packs/carver_nsfw.zip"
+hash = "87fbb87315787f55a892b1492a803a2f5c5ad555282b9955ede99979e0405c1e"
+
+[[files]]
 file = "config/openloader/packs/vaartok_nsfw.zip"
-hash = "4da4329449295ed18e5a1206891c2dd2a96de612c412a4f670d3b4053eb2e715"
+hash = "d460dfbbf1976d1a19786fce59558b5dc18ceb7a498d90ba421a5d11704ae682"
 
 [[files]]
 file = "config/particular-common.toml"
@@ -55309,7 +55313,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatty-dragons.pw.toml"
-hash = "7143cfa9dc81cd61ea3a6356a7f2c0211310a68a6aea4248eb3638005a29928d"
+hash = "f0745e01c32f96dffe879d06839077215c5f97372035d3791c820f0f9e44e43a"
 metafile = true
 
 [[files]]
@@ -55494,7 +55498,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragons-survival.pw.toml"
-hash = "3abddf92816b41870c49a7815c153628928d9a6e5a65f8f04e3555e3f0a9712c"
+hash = "40c74219a817135851642690e174fa7d7676ce09dc408f72d04199d45b181e1f"
 metafile = true
 
 [[files]]
@@ -55868,6 +55872,11 @@ hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
+file = "mods/night-striker-dragon-survival-addon.pw.toml"
+hash = "fdd2f339f2e67fef77999e9edf6a1fdbbd99ab30750df60fb3395024617e7394"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
@@ -56025,11 +56034,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "49a3193e0de40bb7f935b08c50e384a05e42b1c09bb9b1b38013859c38d082e4"
 metafile = true
 
 [[files]]
