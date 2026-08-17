@@ -27762,7 +27762,7 @@ hash = "c998deb81bdc2fd255989f474bcd6bd2ce3e34b38504afaf0d908af13ad7f8d0"
 
 [[files]]
 file = "config/openloader/packs/vaartok_nsfw.zip"
-hash = "d460dfbbf1976d1a19786fce59558b5dc18ceb7a498d90ba421a5d11704ae682"
+hash = "dad54319526d7c2459600ca88348232927fe625d0acfac32e3c5cbf850b3a756"
 
 [[files]]
 file = "config/particular-common.toml"
