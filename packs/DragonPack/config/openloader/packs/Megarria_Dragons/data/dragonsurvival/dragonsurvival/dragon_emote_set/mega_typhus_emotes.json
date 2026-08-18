@@ -245,6 +245,16 @@
       "speed": 2.0,
       "translation_override": "spinning_on_back_fast"
     },
+	{
+		"animation_key": "fingergunz",
+		"can_move": true,
+		"translation_override": "fingergunz_one"
+	},
+	{
+		"animation_key": "fingergunz2",
+		"can_move": true,
+		"translation_override": "fingergunz_two"
+	},
     {
       "animation_key": "vibing_sitting",
       "can_move": true,
