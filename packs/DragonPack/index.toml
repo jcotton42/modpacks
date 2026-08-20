@@ -27281,12 +27281,668 @@ file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/
 hash = "a2fcb6ad8217bc886f8598e3eaf5328b5b95efb57086600c9e31337e4b43367e"
 
 [[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/adamantine_boots.png"
+hash = "3fe9afe12ae60adfd3290e642f4a567ea38a146011c3536e34c52cf326f55b69"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/adamantine_chestplate.png"
+hash = "1584a571871066ac9d51e884a50fae8e83e968f3029f258ed4657b3c5806d427"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/adamantine_helmet.png"
+hash = "bc04750351c82ca7aea2a4497399e54d275ca4735cab691e23a3285dc2b551af"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/adamantine_leggings.png"
+hash = "6c98988e418d9a49bb0e5857cbbaa7c47e04d8f23a63ff223a8ba95c24f1ffc8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/amordrine_boots.png"
+hash = "2ca1c6b567dd3d9c86ecbb7e1e0bb04ea4eb07d47c32f46151e99e5425586349"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/amordrine_chestplate.png"
+hash = "9ab1c5e9735c192df6a3b5852a9e857b3a82db3289a9d637e94494e22c0491c6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/amordrine_helmet.png"
+hash = "9a05aa19bdd1a348848df9b910c98e24d8bd980b6222dc357c0a70acf83bea4d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/amordrine_leggings.png"
+hash = "bd9484c52f5d08137525ffcd52c16868d0ac346d208fd34196af9df85f6d1059"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/angmallen_boots.png"
+hash = "e7861b84b6916e34cf121582fe354f42343165cba0c26743ddc385875008f9b2"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/angmallen_chestplate.png"
+hash = "526faf923ea9a9a8c5e3a36419e53911e4577b8c8bec49ef98b6f26a9e3fa162"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/angmallen_helmet.png"
+hash = "7ade1f83d9709ef1c454c17331e1aca267566d324fee58fb5c26bdb24ba71094"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/angmallen_leggings.png"
+hash = "6d52da3fdd074348074ecfb66de2a25e08dfb50219a7fe3e6bbc3436740c0dcb"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/astral_silver_boots.png"
+hash = "e5a5e12d07fc493e39172a24aeebe4d9f457f298c313f56e0ece858c8cad6aaf"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/astral_silver_chestplate.png"
+hash = "e7a894f97d221098da05050488d33034516f59f9c3b39c73373761f2a9f56d2a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/astral_silver_helmet.png"
+hash = "b65902a92ddb194f91126c8a72497f519a39896fb326756f879ff6717c44b9ec"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/astral_silver_leggings.png"
+hash = "789644d56a8d9f5b9ce398345c1dc7149716bbebf09f775189efebfd347fd1de"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/atlarus_boots.png"
+hash = "0604546d0c5a39de56d645da746183940153b6fdae4a912128bfe5ebc6f19d0d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/atlarus_chestplate.png"
+hash = "9209c540853f48e81e8b5147711e995c70d98c6666c2585bde210372b87c2795"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/atlarus_helmet.png"
+hash = "9299595c21a73c58e7e179969db03aee10fe1ac4f23b6249f6c6b57b8fb1f2de"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/atlarus_leggings.png"
+hash = "13ed521206436eab56f6209ac3d75b07ff3352c5e0cb8f295c04ea25f5806de1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/black_steel_boots.png"
+hash = "cceef82d67aca3f55349eb98ba3c3745431a3051f51ba2532852cd0e814ac11c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/black_steel_chestplate.png"
+hash = "691f9bce3f60f6380c2f7976432ba6c80a8721667fe52ef985780f0b1935440c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/black_steel_helmet.png"
+hash = "3db0b01a4b3cb082e9c70bc23a8a06d93853d2ecaf9badd1593a50e0e300c10f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/black_steel_leggings.png"
+hash = "14d476966eebb0043e732c2a546dfb8c5686fbbf6554180dd0280efcb78da595"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/brass_boots.png"
+hash = "94671f225724ecb43694a86903f8cccb117e6969eaf2a628af17a183b2e3ba90"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/brass_chestplate.png"
+hash = "807e52c8f5a8e4addb5a0f62382b4f133ce563d7511481967cc1183a67ca64cf"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/brass_helmet.png"
+hash = "399668700e28b2780d755743c9efe0f8ef7df9994ea60e7330126b373ef14ee2"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/brass_leggings.png"
+hash = "82ea7405c16999f5bcaed7dd2acb466959e655bc50ae55dfc3f9ad353b9232f6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/bronze_boots.png"
+hash = "540250c04baffb585c0206692d04f86d8113df112c2d042306170b6eba493823"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/bronze_chestplate.png"
+hash = "210b82e654213142579ab85bce1838bb16c01238e28f8e7d744cd636454c8268"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/bronze_helmet.png"
+hash = "67101e171316eb2bcd900b71e053e6175643fc6380cf87ce20ba8cacb6238dae"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/bronze_leggings.png"
+hash = "80036355da7a4f5294e4712a2bab293a060ca34ef8359deab3ba044c916f8d14"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/carmot_boots.png"
+hash = "b4fbf2367946f790ebd38a06e1a55b098734f1dec2662fe2e70ea6af6c5a32c5"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/carmot_chestplate.png"
+hash = "11493bcf0ecc3c2eb78169efec6072357a7ce1c52dda145b16ae9c1734d1065b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/carmot_helmet.png"
+hash = "d3c7feaea2b57dbb7b5a0e03ec854da729b8674078105e1e9c29d96ab9dc4d47"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/carmot_leggings.png"
+hash = "b181b8f2998b09e27ee175797110909ddd61d6fd1eb9a3b56ed1e7b2db7ddf7f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/celenegil_boots.png"
+hash = "e8172fbf91ac27a93eda544b4f0851904d5f879ed7ca7d758be7523df040a9c6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/celenegil_chestplate.png"
+hash = "2e16a69b3b2680eab10509e51a03be6d6211d18e118844e8179b984a75cbd15f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/celenegil_helmet.png"
+hash = "d68bc6820ffe04ad918c5ae670134912ef195edcbe39da2fd00024ce3194ffe4"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/celenegil_leggings.png"
+hash = "400b06326c84455812239ae631c1d84519403460caa20dd3e4fe5828bf2be7e8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/ceruclase_boots.png"
+hash = "8334b895595b34c6383c59924015b8ca790e3d0278b0141e568892b3d53dc9e7"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/ceruclase_chestplate.png"
+hash = "616e0ece9456e0f238d5c657cc8163350889576a23b6e2e48ccf6297c329030a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/ceruclase_helmet.png"
+hash = "36eb97812e4c7e3dbaf0853104ec8f9c8754dc5bfecbb78897ef56ff9c91d73c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/ceruclase_leggings.png"
+hash = "54a0a87bdc4c7f03cd859a3f9a12b73561caaf0601d6c72390be21d5e3ac7d19"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/copper_boots.png"
+hash = "33c36dbb141c4e3308064a99594a333b4d9a68f1e879e669e15ea100bf99b75a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/copper_chestplate.png"
+hash = "f307e4441f151a86bfd2353ba6aaaefc749653ca9c9da56c9d1071e80b0303a0"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/copper_helmet.png"
+hash = "765199d4f30a366e91ea9e8615ff3330d5c7d9b318121988d676851497246015"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/copper_leggings.png"
+hash = "e3b384efd50ec08955389d78a774b675eb118b9a72fdcb223e1d818bfa9f4909"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/damascus_steel_boots.png"
+hash = "c462ab24695f2bd3f900f3226f6d65ae4525247b545ac3e37b0fa3806dd9873f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/damascus_steel_chestplate.png"
+hash = "df540a9c9ae936bf272f1f87e5d083025748cc9d041a15ed34d8265c3bc270c5"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/damascus_steel_helmet.png"
+hash = "6ca7ece77235d72aa80b424f76bc58b1e0178a2535612f41519228641d1b83c1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/damascus_steel_leggings.png"
+hash = "c12feef2ecf018754ed91fd45096fdb2f358310243a760ebdfff580b0652257d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/deep_iron_boots.png"
+hash = "e6147f807a6b4c2b13f89f43329bbab9b82f7e51786e029077dc1f56778d28f6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/deep_iron_chestplate.png"
+hash = "ba4c16e7029a9eb3cfedb3fdf02103a5a6d3ea78485603414ad73fbb96b204fc"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/deep_iron_helmet.png"
+hash = "8553805159fabe8085fefda501d1f983e73fd7c05a83ca54033f52ab640c5481"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/deep_iron_leggings.png"
+hash = "1d26ae4b5f36cfccf0e19148c6c845cd46a171ae2da07acb9263bab0fe53b665"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/desichalkos_boots.png"
+hash = "228b3d36c1ddc470a7fcf3b1fd6d4a4125dfad017de03313692c645aff6cf2f9"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/desichalkos_chestplate.png"
+hash = "cd10fe9addecb4a3da482e94b44d938b54a1e71eb1c7d9eac90db7ed334c77e6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/desichalkos_helmet.png"
+hash = "43c83a1e2601f8cd1e432d6b6c88b88304b7495665d02b5f70268db2f9e6d8a3"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/desichalkos_leggings.png"
+hash = "07ad5ac7bd7b33a041c8b25db0fc928eb4de98fdf6191dcbfe61614ab5bf598f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/electrum_boots.png"
+hash = "055d1c382c858804562a4762ead0cc1466e21bc2a186c0b3f800899f971c7e29"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/electrum_chestplate.png"
+hash = "1031a392e1e2bab636bc289a249dea59a9a5cd98efdccaaeb386fd331641c1d0"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/electrum_helmet.png"
+hash = "82ad7eeb74a699ea9ec72637e407df9df6ec300231ffa897125d48342b85fdf6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/electrum_leggings.png"
+hash = "f8dc322a4c54fc5c7c04bd5f29bbccd8852b4ec6d5a090073ed305a452fc9f36"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/etherium__chestplate.png"
+hash = "008362f8a5e84f4aff5f5c1d66087ceade3b64bfceb8b2db0987868a6f7e88f2"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/etherium__leggings.png"
+hash = "d1fd87a5148325335892cc9cb4014b6ebb44e07a3056f1dd39f9ef6b20dde122"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/etherium_boots.png"
+hash = "cc95a82026a569862e2654ceab2db708973df8f3046cc91e0f0f596ae7142279"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/etherium_helmet.png"
+hash = "9b409699d3d4ab867e43acc53fd8a3149c3a02b6ea66ea1eab64ef9e76918b46"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/exemite_helmet.png"
+hash = "8dd6d0930045860034f00db414ed5c88f8833452a3fd8f68eaf6d8d227e80637"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/exemite_leggings.png"
+hash = "229f8c47fd0fec17c1697f9b7deca8f21e51469c1e470bd9fc3eaac364bdf33c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/eximite_boots.png"
+hash = "f512f8e3cbc3101a6167998fc23533c5d081a6aad6b4f5d982847d961e72ee70"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/eximite_chestplate.png"
+hash = "ff69c9e9018f02fdf91371be2c649bcce3049cec641fe0f137a6bb57de536325"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/haderoth_boots.png"
+hash = "3f0259f32b6243b7026483d4e9e48067f7ec78bb780228541d57f9a89a256c2a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/haderoth_chestplate.png"
+hash = "15449ce7a69c4e706535d7e67db058e8f676c957616065664422e5d043802b44"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/haderoth_helmet.png"
+hash = "4cdc9cb933c242239a4a1d0e9c62bc4197af5f0f60d1ce0ac485cbaaf8033c41"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/haderoth_leggings.png"
+hash = "712b5e6dde1f39e364b11dd679680ef688a90b8d9b4123d51d9b607137802b33"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/hepatizon_boots.png"
+hash = "ace947ab851144f56498a97e7a5aa9bdeb43f5d6c2a5a63337b50d7a5cd0331c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/hepatizon_chestplate.png"
+hash = "2510dc30ea8e17f5d12061a84e6e83a885d75950940ad3381a38ff9e6e4908cb"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/hepatizon_helmet.png"
+hash = "c22d3581db2f1153aa96d9b89cbe3144d2966a596de78fad2c002f9ccde096c1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/hepatizon_leggings.png"
+hash = "4b0f38b358d03398d78636e726b040ff840739dedb5301c29d6277593395712e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/ignatius_boots.png"
+hash = "cc293e594800228a26c5936a6087281ae37291a354bcf6ca7dfd02df8ca9a416"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/ignatius_chestplate.png"
+hash = "dc9cd7314b8bda1c06e2386f03cea027d241d505f9d8155f10f21ce97da38b29"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/ignatius_helmet.png"
+hash = "5d39f7271191a8ced24e70166d26c12dd3c97f58bbf596412d0550ee074c7e9c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/ignatius_leggings.png"
+hash = "01d880129000630a5c0b9c54a120ea7c23270ab53bc20b7ef74415faf87d9197"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/inolashite_boots.png"
+hash = "5f9d3b431898443fba3d799c5452dac03f4a669a3757701e41a2b338046f0d0a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/inolashite_chestplate.png"
+hash = "d0ac4547147e2623c9dcbfa0c814e69bd8ca2b2d27a922f57d33045ca4856ba2"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/inolashite_helmet.png"
+hash = "3cc6d9cc36df33d3442b588d8136e209f71017cd9720c5be5ed581d56989129a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/inolashite_leggings.png"
+hash = "e209046327db4dc630a536a994db7f4cdc4496674951b85e2f24a361af421e54"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/kalendrite_boots.png"
+hash = "d84f4e9c0544e2cac0aeac32fab4a6f56207180ce3c65871f0123560206b1f85"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/kalendrite_chestplate.png"
+hash = "928638ce0de0c750d4389ea0ad9c80f33f871f8e78a4c1f1249e267a84a6480a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/kalendrite_helmet.png"
+hash = "0f793c122fd082f964bc1cca5e08d6c3539890c8a82e8e47d46a82ed148161b8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/kalendrite_leggings.png"
+hash = "029d681be0eaba818fd71f9145157a915f689604533c1599c2d02757a59436c1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/krik_boots.png"
+hash = "9789edd59ac30102a915ce4082710f3d92261fef2a9473576568364410419338"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/krik_chestplate.png"
+hash = "96e739ec40280436ec103967c02f1c13a3922255d63dc415681549261a0cf7aa"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/krik_helmet.png"
+hash = "0c19b8810afa5c850909e6cc76a7b7dc799ff2cf426b704ed030d0cc7af818fe"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/krik_leggings.png"
+hash = "cad576665fa60eee839f3a7b84dd748800858f066f04f61dc78e0227549d455c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/lutecium_boots.png"
+hash = "5cd3ff18aed0312fd6622704819715ea3d388f8d9ea89d564402cd2d217cd15e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/lutecium_chestplate.png"
+hash = "6a22262834ba1e28304875f4f07386b127f90af17c41c11f27a0a5460cb44c72"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/lutecium_helmet.png"
+hash = "6f14e9532191ea042ae8d49c4b602c002893679941bda04d7d3b3743c5331cfe"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/lutecium_leggings.png"
+hash = "be17087f948faa384c52ac71a8ba6e0d0f5e122abfa72ebdd210f774aa763674"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/midasium_boots.png"
+hash = "f4c6d412a3a0013a5d0264edda62a35e2e8bf12c1da02cf659bc013fd3d52af1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/midasium_chestplate.png"
+hash = "dc596c4316d6af60df53e94ce290fea771ed49e2970bb619d291933fb65aae18"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/midasium_helmet.png"
+hash = "00d8452f2745fb47f76da37a473dc798bf79d28671bbd38e514865d80162815e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/midasium_leggings.png"
+hash = "fdc73e748b218ebcaa4caae34784f8875d1c81816ee9769f64c20ba204a01d0d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/mithril_boots.png"
+hash = "b3260f5bbe22f21dcba9070d676f351ee7d58cb4ebc8fdf0cbc59043933c57c8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/mithril_chestplate.png"
+hash = "13631a68c8a78343bf16b1fe519593358b88f3b6746a6bcd45774a03e1ec5adb"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/mithril_helmet.png"
+hash = "864332de127142b2de322e0a696f4d23ab3c7e0f5fe7f029ba9fa5009b132165"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/mithril_leggings.png"
+hash = "a6623d83d82cfcd491424793e2332f904a9edc833f6476e89f874403cf2358ec"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/oreclause_boots.png"
+hash = "e03ce04c73a40834ff19d7b986cfec13606dea55f9e2004ea7ef61fe4f6635e9"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/oreclause_chestplate.png"
+hash = "b4e0d6bff83b12fe109d09b4b4a0bfe42c2f992a6db795a3ace9797b83804721"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/oreclause_helmet.png"
+hash = "50b3c34a4c17f7db272f4f2dd2f052e7b766c77467384ce6115e894e2fb46151"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/oreclause_leggings.png"
+hash = "5ce082d29a7ed40fff3d6e98d3b88f6b22083f8a7c05b512413874c435cab45d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/orichalcum_boots.png"
+hash = "731dacef1a53f9bfadbbde1a917cc1052f129632765fa98a8729a1d2de2ef943"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/orichalcum_chestplate.png"
+hash = "9c59b1eeb0a1048f66c72dca37200a7441720e35d134a30bfe3c3d4dffa621a1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/orichalcum_helmet.png"
+hash = "34122e9e101b839073b72012aa86770810371229594733fd61e531dc31b363da"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/orichalcum_leggings.png"
+hash = "0cac5fbd26d516fe1fced66141963234c061ea30310f5f9cfe311a86b086f997"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/osmium_boots.png"
+hash = "bb95a41d1f8cff0f12a25f01edcbf0ba0a96cba2e7c00afddcf93fca9f5d6b1e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/osmium_chestplate.png"
+hash = "239a58a3ea86db9218dc8e124f843db8225b00e91ba8ee4cb1072ca1d090aae8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/osmium_helmet.png"
+hash = "d5f38262439dd18cde83125bf83fa6703fc8c08ec3f85573b8627ac4f01c8e9b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/osmium_leggings.png"
+hash = "31319ed11ef818a757f2269270e8c47969e19eab2445a0e115d27f0a895b93b7"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/platinum_boots.png"
+hash = "703eae1e925a3b57385508d1e4c5c1c173cb6cffbcb7c0818718c7d093e36a1b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/platinum_chestplate.png"
+hash = "b29b93de45664e992227fe088d5cd7dca8845c41112a166be075ffc1864cb530"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/platinum_helmet.png"
+hash = "73d47fb9fc4abad8ba11a8cdad0284b0de98fdf1cbcce3d43e1d1d5b7b646f09"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/platinum_leggings.png"
+hash = "3b704224418742fb36ce2ddb2114a2d74da59ab282552c8839fe41aa28d66382"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/prometheum_boots.png"
+hash = "bb54326abb7415e8e291148fafd45adb018b6cda4c0107fac2b6798d2155eaea"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/prometheum_chestplate.png"
+hash = "b3aa0c865cf03136ceb67b8905663c51e75d6f46e184b1b69ecfc9680f024cbc"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/prometheum_helmet.png"
+hash = "0ad5699e08b4c19a0db77dd9408e133c57705e8f377cf2d167eb5f20bf9a12e8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/prometheum_leggings.png"
+hash = "2f9e1dbf947a5961a390c3bf6f138f4f6782cdbb4f3179ec240c82434a4c0381"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/quicksilver_boots.png"
+hash = "44d252c41f7491b593ca90d1f27ea576f49649652c42ffa36b4e86b98de8e696"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/quicksilver_chestplate.png"
+hash = "343ea25e5cbfcfa54a0f040c18fb2d7981e49823730babad5a72ec0b9391a115"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/quicksilver_helmet.png"
+hash = "b0970026d9b13911401ee8cbbbea852aabaafe8f82a71121c477f7cdcd4bfcdc"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/quicksilver_leggings.png"
+hash = "a8ba6312e9a4208e70696989a5f5f2908a963b3b9a59b1f9403fe6e99544af82"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/sanguinite_boots.png"
+hash = "43a91847649994f0906fb121c957317ce7221f69060c8808674b1fbc6f105cb6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/sanguinite_chestplate.png"
+hash = "3e91ea343d33258cccd801ec0be4867c96743b69abb4df4b86b3055b9f4aa60e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/sanguinite_helmet.png"
+hash = "ca2f5985660c697918d8474a71ef14930803a80876ea48ef337ad9771ffc7008"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/sanguinite_leggings.png"
+hash = "8123f56e26d5e45f8469d628aceea233122bdf2ca057cfd7d4ad5b4e3d75d701"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/shadow_iron_boots.png"
+hash = "bec3196ebed2aa5d38b87247246ea8c0c4652e236acfb1c53bd83cc270bd08d7"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/shadow_iron_chestplate.png"
+hash = "fe99008e8cf7295640eaeb15af352635cfefa703bd716575391533640760a14d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/shadow_iron_helmet.png"
+hash = "1ed13bfe4518ea645f483bc9e3271110326e3b5890e40b083c0c0ccad9289543"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/shadow_iron_leggings.png"
+hash = "8069a95342f8966ea13a668efe1a8a7dda5edf45c2cd7e12ab937c147fdae68c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/shadow_steel_boots.png"
+hash = "2dd82c65eb990925706fa18b4b4d051c66b060821ac6f6c451bcb1613b1a1457"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/shadow_steel_chestplate.png"
+hash = "ffa2bdcdd49bf19026fe2703f5bfc85750054c86843e41299394ed5b9f1bef24"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/shadow_steel_helmet.png"
+hash = "4c1564502fe0890c64bc59b3ef1316f9376d3ef17289a8829ba65ced3e16db81"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/shadow_steel_leggings.png"
+hash = "137e8b49ef26e4865bf18f15a90170d9edcef6b1ce7d2f841c77d0238118f7c4"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/silver_boots.png"
+hash = "5a141cf10b02d12bfa2a8043acc0656683d772660e88887f5ecd0bbce8430ffb"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/silver_chestplate.png"
+hash = "6b320ded495254a6c2e13f32ffd3adf74fea09083fa6929eca59dba2cd7a379b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/silver_helmet.png"
+hash = "c508c1e057bb9e760ce515a3b91e54656c3ad41d73f78cef96118c78238dc605"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/silver_leggings.png"
+hash = "8da22c88ed787ee17a6e271b7afb708f5c382facafee1853a6698941c6d3f88d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/steel_boots.png"
+hash = "b77929da2e5406ebb2fb70476ad879259d30d42828c77336b8f1880770b13db6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/steel_chestplate.png"
+hash = "663c71d00803d8da8b4bad47b18cd57ded6eb703bc8b59d445a57e3c7ecc9a4d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/steel_helmet.png"
+hash = "4390f136815ec5669c448f3e08473c9cd38af2c96ec1641dd5297108e4e3ad0d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/steel_leggings.png"
+hash = "ed11266c8e925620f7243a377eee1591be765a2a66ad6ae8b1d92d5203f0555c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/tartarite_boots.png"
+hash = "040f18baffea5ef46e7e10faf2c5cb3d79aec9f184adf2ceb151a53cd208b07e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/tartarite_chestplate.png"
+hash = "321901c1d71939db1212ac1e9c9888f381524a44efb7074d5f4123356305938b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/tartarite_helmet.png"
+hash = "f0fbab13082aaa991b1678062240cb3cd63484b45b703c3fc391c183a3314971"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/tartarite_leggings.png"
+hash = "bf7f53a472e291ecb387ded643a4585e356588ad2174534363ce21abf7ead3da"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulkanite_boots.png"
+hash = "8044eef28060177f8ac84b5a6429abdcfb41ff88232e28f9be637a7a2a431bea"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulkanite_chestplate.png"
+hash = "7e8e0e8d841833a6b02de476becb339538a4e660751c95982a547f404e4fbe07"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulkanite_helmet.png"
+hash = "811e858db82de07fe5ea01d761947f277348372752e3aa76eb0f2cde1756b8e3"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulkanite_leggings.png"
+hash = "67073f2f3329120a8a187689b4c28a28741b510338e0e85b864dab5507fcfde7"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vyroxeres_boots.png"
+hash = "2382bf67c43345d908a2fdfec20cbf9f69304115c616d6441933cd439e0ffbd9"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vyroxeres_chestplate.png"
+hash = "cf5b189457a1e4d228df52a84456868fa150be00490487cf90c2c923f5d0a078"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vyroxeres_helmet.png"
+hash = "99ff62129d6b3afb7576e2035a8226c7bb73f732bd3d2287fbe58f15bb51210b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vyroxeres_leggings.png"
+hash = "a717be0f0008dce55ab3450e09d785e27fb06a10b970b0022dc29b3638c50fb3"
+
+[[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/aquaculture/neptunium_boots.png"
 hash = "743e71a2964eb439f203198d647570537398c90ded4ca054188399db21a3502b"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/aquaculture/neptunium_chestplate.png"
-hash = "207d7215a5e8e82eecd469655667ea915919a0f171bac67a6950bbe3687ec6a8"
+hash = "7b26ad9ac2ecc79bc225aa6fb82889ab2b1d8bc0f829d472f90f68c2addf04ae"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/aquaculture/neptunium_helmet.png"
@@ -27418,7 +28074,7 @@ hash = "87150c5fe7cecc72a7872fec75175d4c16e83cbb58ead46a431787b5d34ae53d"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/default_chest.png"
-hash = "dda6d4bedaaaf0828732236b5e9332f21308483e6ff68488856000f057bdef4f"
+hash = "16b150f4a994165e753e22df8cf2f553e5fca8a18432f5a8cd62e2d28445e6ec"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/default_feet.png"
@@ -27446,7 +28102,7 @@ hash = "53dc3f4ccd84df81c60d18f532c5bf43b7cb84c33be55a2b1001c5ef6f31c45e"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/dragonsurvival/dark_dragon_chestplate.png"
-hash = "7cbdb1b89ae28b1909d3e0ef499dfda0bd6df8ecd216ded6a4b1b8b74ee1f5b9"
+hash = "27e44ffe1782c0b274f5b0201dda3da3821f57dd4d49d41286488cdb424b6b09"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/dragonsurvival/dark_dragon_helmet.png"
@@ -27462,7 +28118,7 @@ hash = "5355ca4d212cb017bc56d909431021ed3b0ce4d4d17acf5efff9d751578dac1a"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/dragonsurvival/light_dragon_chestplate.png"
-hash = "88dc27fb26091f5fc19b69164b2a816492558a5ebb02505bcf3d49afd4d081ff"
+hash = "e91038f46b7464ad58b180da41ac00836e0be5a1d6be3e7318063dee330031eb"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/dragonsurvival/light_dragon_helmet.png"
@@ -27474,7 +28130,7 @@ hash = "66e765677e1e3b1691722c7c9093b0b03e8620a199fb7c0b4d8190cb5cf8db7f"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/epic_chest.png"
-hash = "e22dbbac8b7f9c301ef8aa0158407a7364d8c1b5af19ad033f6e9e3b049ebfb8"
+hash = "246c9d1bc72a3bcb3a7fdd221c110b57d2dde4c3d872dabbb7bb800a77e21615"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/epic_feet.png"
@@ -27538,7 +28194,7 @@ hash = "27ceac62a18a5819e58188a5382c90eb8282f7cae8f0405d507dc3e1c6a9edc7"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/diamond/chest.png"
-hash = "94d1b9305ef337afa8e93036f431209ebcdf7a5dee04da71ea925b54c9de9fd5"
+hash = "cffa67e358565bd0f8f0e681c7d67e54fc6cd72ab990064eef0a68451b447882"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/diamond/feet.png"
@@ -27554,7 +28210,7 @@ hash = "688b75dc076fe18a583aeccdab166769b1583198756a8765ed8a36570453a8d0"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/gold/chest.png"
-hash = "b8c6bcc99b9e74a3a04f64c5c06b2fccc79a59db059eb690e6bc3ed6fc67b825"
+hash = "36cf357670f9fb5d351f04ee4b3ce0fe6d5850f452c5a2307e0e14d7b7029942"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/gold/feet.png"
@@ -27570,7 +28226,7 @@ hash = "d0980ebaef3665a4e75d6d0b30eda122a926261eeb0d24978fa8fa63dba8cbc7"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/iron/chest.png"
-hash = "df532ea931467c74c4437d1b1ea278347ce4b15ff4e057ebd6e36c7f7c42f09e"
+hash = "dd229751d8cd2c8d8013521b2dde40f6f7826a4dcd948ae83567b1d93b281ef6"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/iron/feet.png"
@@ -27586,11 +28242,11 @@ hash = "109e4a97aab27822848bbf2d1640b3dee562bde020cdd5a677fbf0194a9c71a2"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/leather/chest.png"
-hash = "af627b60ed2605ff1966e7904173e457a5efaf9b2c303005564bb84296faeb7c"
+hash = "9d19c707dc4f8a1c2b7b9b9d62911e6dad73e2aadbe31cb70d30935421aac474"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/leather/chest_undyed.png"
-hash = "b8f68dbb9371832e15688a1a24cc5c29088a08e13f762d3e430e295bf4363238"
+hash = "c36334190bdde2dc1180c79015da1230a0315d0f9a95f913cec09d3aa560c88d"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/leather/feet.png"
@@ -27618,7 +28274,7 @@ hash = "8071291e620fe5d7bb119f9f72b5583f9fd96149f76edcc9f8af7a8b2b60eedd"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/netherite/chest.png"
-hash = "4af45d0feb7b2cfc066eb889937554535495d89594b9cd22a5fba57a48060f9b"
+hash = "614099b08c81f1371596665dd73c7a2610fea0a4b1d471f13f156777d5092dac"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/minecraft/materials/netherite/feet.png"
@@ -27674,7 +28330,7 @@ hash = "9679404da9231c5d2e93bbf2a6fa85990bba38755706bd8b317522c32a3c52f1"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/rare_chest.png"
-hash = "2d218beb514fcff7e844350e667a11d57c8d9e0d33fc12c6eb028980a02d2041"
+hash = "51f2e14ae82a4d4b39be449b9ba944124b69252f4daa59e18d4eda91cc97d4c4"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/rare_feet.png"
@@ -27698,7 +28354,7 @@ hash = "a168442faeaac35962e385298a7972bedfcab4604a4a33ea8495e9724d9f3e32"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/uncommon_chest.png"
-hash = "5ddfc6099f9df5c091fe918424a29feb3a2901817b304fb09b27a0ffb13987bd"
+hash = "03f86ec608795f29e50b27f8eaa310092a7736292e5bc54067e2205b1aa6e39e"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/uncommon_feet.png"
@@ -27721,12 +28377,668 @@ file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/
 hash = "fce31aa572d2736825d5870c2ea4c88012cacc69fc43fe21d08098c2a742d370"
 
 [[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/adamantine_boots.png"
+hash = "3fe9afe12ae60adfd3290e642f4a567ea38a146011c3536e34c52cf326f55b69"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/adamantine_chestplate.png"
+hash = "1584a571871066ac9d51e884a50fae8e83e968f3029f258ed4657b3c5806d427"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/adamantine_helmet.png"
+hash = "bc04750351c82ca7aea2a4497399e54d275ca4735cab691e23a3285dc2b551af"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/adamantine_leggings.png"
+hash = "6c98988e418d9a49bb0e5857cbbaa7c47e04d8f23a63ff223a8ba95c24f1ffc8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/amordrine_boots.png"
+hash = "2aa486ce9cd83ee48ab6a57e2a9e29de68f6811467d0defad845eda9bfa78aec"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/amordrine_chestplate.png"
+hash = "9ab1c5e9735c192df6a3b5852a9e857b3a82db3289a9d637e94494e22c0491c6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/amordrine_helmet.png"
+hash = "9a05aa19bdd1a348848df9b910c98e24d8bd980b6222dc357c0a70acf83bea4d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/amordrine_leggings.png"
+hash = "6a8b1efe2533771d6216e4dab76482f250d72cb6f0494973ae483d201597bc5a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/angmallen_boots.png"
+hash = "e7861b84b6916e34cf121582fe354f42343165cba0c26743ddc385875008f9b2"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/angmallen_chestplate.png"
+hash = "526faf923ea9a9a8c5e3a36419e53911e4577b8c8bec49ef98b6f26a9e3fa162"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/angmallen_helmet.png"
+hash = "7ade1f83d9709ef1c454c17331e1aca267566d324fee58fb5c26bdb24ba71094"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/angmallen_leggings.png"
+hash = "6d52da3fdd074348074ecfb66de2a25e08dfb50219a7fe3e6bbc3436740c0dcb"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/astral_silver_boots.png"
+hash = "f0cb04d6d43f0c9025e51def297f4fb700fb851df0a9b373912551927a8ff1a9"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/astral_silver_chestplate.png"
+hash = "e7a894f97d221098da05050488d33034516f59f9c3b39c73373761f2a9f56d2a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/astral_silver_helmet.png"
+hash = "b65902a92ddb194f91126c8a72497f519a39896fb326756f879ff6717c44b9ec"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/astral_silver_leggings.png"
+hash = "c15e8631030a1623b0c91999201f2c9522ee8a302e2b03a8c6549551510df978"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/atlarus_boots.png"
+hash = "b12f7f91c6009bebfb4fd73b87858b9b559d2bc8c9302bc779b349615a7a9f16"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/atlarus_chestplate.png"
+hash = "9209c540853f48e81e8b5147711e995c70d98c6666c2585bde210372b87c2795"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/atlarus_helmet.png"
+hash = "9299595c21a73c58e7e179969db03aee10fe1ac4f23b6249f6c6b57b8fb1f2de"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/atlarus_leggings.png"
+hash = "7a5c5c2c28f3c6752e8e007dde312298f932ac73ba66cfa71e1c9cbd06e0105f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/black_steel_boots.png"
+hash = "cceef82d67aca3f55349eb98ba3c3745431a3051f51ba2532852cd0e814ac11c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/black_steel_chestplate.png"
+hash = "691f9bce3f60f6380c2f7976432ba6c80a8721667fe52ef985780f0b1935440c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/black_steel_helmet.png"
+hash = "3db0b01a4b3cb082e9c70bc23a8a06d93853d2ecaf9badd1593a50e0e300c10f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/black_steel_leggings.png"
+hash = "14d476966eebb0043e732c2a546dfb8c5686fbbf6554180dd0280efcb78da595"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/brass_boots.png"
+hash = "94671f225724ecb43694a86903f8cccb117e6969eaf2a628af17a183b2e3ba90"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/brass_chestplate.png"
+hash = "807e52c8f5a8e4addb5a0f62382b4f133ce563d7511481967cc1183a67ca64cf"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/brass_helmet.png"
+hash = "399668700e28b2780d755743c9efe0f8ef7df9994ea60e7330126b373ef14ee2"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/brass_leggings.png"
+hash = "82ea7405c16999f5bcaed7dd2acb466959e655bc50ae55dfc3f9ad353b9232f6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/bronze_boots.png"
+hash = "540250c04baffb585c0206692d04f86d8113df112c2d042306170b6eba493823"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/bronze_chestplate.png"
+hash = "210b82e654213142579ab85bce1838bb16c01238e28f8e7d744cd636454c8268"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/bronze_helmet.png"
+hash = "67101e171316eb2bcd900b71e053e6175643fc6380cf87ce20ba8cacb6238dae"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/bronze_leggings.png"
+hash = "80036355da7a4f5294e4712a2bab293a060ca34ef8359deab3ba044c916f8d14"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/carmot_boots.png"
+hash = "5ddbef629fbd4a63f70266a3b6e8be10aadb4848683f0133f64dc01d91cfe59e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/carmot_chestplate.png"
+hash = "11493bcf0ecc3c2eb78169efec6072357a7ce1c52dda145b16ae9c1734d1065b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/carmot_helmet.png"
+hash = "d3c7feaea2b57dbb7b5a0e03ec854da729b8674078105e1e9c29d96ab9dc4d47"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/carmot_leggings.png"
+hash = "9b0fb33c3d09ac8b359e8e2e90a50e858a0110cfd5d3a525747073f49e6e0ae8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/celenegil_boots.png"
+hash = "e8172fbf91ac27a93eda544b4f0851904d5f879ed7ca7d758be7523df040a9c6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/celenegil_chestplate.png"
+hash = "2e16a69b3b2680eab10509e51a03be6d6211d18e118844e8179b984a75cbd15f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/celenegil_helmet.png"
+hash = "d68bc6820ffe04ad918c5ae670134912ef195edcbe39da2fd00024ce3194ffe4"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/celenegil_leggings.png"
+hash = "400b06326c84455812239ae631c1d84519403460caa20dd3e4fe5828bf2be7e8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/ceruclase_boots.png"
+hash = "8334b895595b34c6383c59924015b8ca790e3d0278b0141e568892b3d53dc9e7"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/ceruclase_chestplate.png"
+hash = "616e0ece9456e0f238d5c657cc8163350889576a23b6e2e48ccf6297c329030a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/ceruclase_helmet.png"
+hash = "36eb97812e4c7e3dbaf0853104ec8f9c8754dc5bfecbb78897ef56ff9c91d73c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/ceruclase_leggings.png"
+hash = "54a0a87bdc4c7f03cd859a3f9a12b73561caaf0601d6c72390be21d5e3ac7d19"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/copper_boots.png"
+hash = "33c36dbb141c4e3308064a99594a333b4d9a68f1e879e669e15ea100bf99b75a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/copper_chestplate.png"
+hash = "f307e4441f151a86bfd2353ba6aaaefc749653ca9c9da56c9d1071e80b0303a0"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/copper_helmet.png"
+hash = "765199d4f30a366e91ea9e8615ff3330d5c7d9b318121988d676851497246015"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/copper_leggings.png"
+hash = "e3b384efd50ec08955389d78a774b675eb118b9a72fdcb223e1d818bfa9f4909"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/damascus_steel_boots.png"
+hash = "c462ab24695f2bd3f900f3226f6d65ae4525247b545ac3e37b0fa3806dd9873f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/damascus_steel_chestplate.png"
+hash = "df540a9c9ae936bf272f1f87e5d083025748cc9d041a15ed34d8265c3bc270c5"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/damascus_steel_helmet.png"
+hash = "6ca7ece77235d72aa80b424f76bc58b1e0178a2535612f41519228641d1b83c1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/damascus_steel_leggings.png"
+hash = "c12feef2ecf018754ed91fd45096fdb2f358310243a760ebdfff580b0652257d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/deep_iron_boots.png"
+hash = "e6147f807a6b4c2b13f89f43329bbab9b82f7e51786e029077dc1f56778d28f6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/deep_iron_chestplate.png"
+hash = "ba4c16e7029a9eb3cfedb3fdf02103a5a6d3ea78485603414ad73fbb96b204fc"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/deep_iron_helmet.png"
+hash = "8553805159fabe8085fefda501d1f983e73fd7c05a83ca54033f52ab640c5481"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/deep_iron_leggings.png"
+hash = "1d26ae4b5f36cfccf0e19148c6c845cd46a171ae2da07acb9263bab0fe53b665"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/desichalkos_boots.png"
+hash = "228b3d36c1ddc470a7fcf3b1fd6d4a4125dfad017de03313692c645aff6cf2f9"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/desichalkos_chestplate.png"
+hash = "cd10fe9addecb4a3da482e94b44d938b54a1e71eb1c7d9eac90db7ed334c77e6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/desichalkos_helmet.png"
+hash = "43c83a1e2601f8cd1e432d6b6c88b88304b7495665d02b5f70268db2f9e6d8a3"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/desichalkos_leggings.png"
+hash = "07ad5ac7bd7b33a041c8b25db0fc928eb4de98fdf6191dcbfe61614ab5bf598f"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/electrum_boots.png"
+hash = "055d1c382c858804562a4762ead0cc1466e21bc2a186c0b3f800899f971c7e29"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/electrum_chestplate.png"
+hash = "1031a392e1e2bab636bc289a249dea59a9a5cd98efdccaaeb386fd331641c1d0"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/electrum_helmet.png"
+hash = "82ad7eeb74a699ea9ec72637e407df9df6ec300231ffa897125d48342b85fdf6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/electrum_leggings.png"
+hash = "f8dc322a4c54fc5c7c04bd5f29bbccd8852b4ec6d5a090073ed305a452fc9f36"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/etherium__chestplate.png"
+hash = "008362f8a5e84f4aff5f5c1d66087ceade3b64bfceb8b2db0987868a6f7e88f2"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/etherium__leggings.png"
+hash = "d1fd87a5148325335892cc9cb4014b6ebb44e07a3056f1dd39f9ef6b20dde122"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/etherium_boots.png"
+hash = "cc95a82026a569862e2654ceab2db708973df8f3046cc91e0f0f596ae7142279"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/etherium_helmet.png"
+hash = "9b409699d3d4ab867e43acc53fd8a3149c3a02b6ea66ea1eab64ef9e76918b46"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/exemite_helmet.png"
+hash = "8dd6d0930045860034f00db414ed5c88f8833452a3fd8f68eaf6d8d227e80637"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/exemite_leggings.png"
+hash = "229f8c47fd0fec17c1697f9b7deca8f21e51469c1e470bd9fc3eaac364bdf33c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/eximite_boots.png"
+hash = "f512f8e3cbc3101a6167998fc23533c5d081a6aad6b4f5d982847d961e72ee70"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/eximite_chestplate.png"
+hash = "ff69c9e9018f02fdf91371be2c649bcce3049cec641fe0f137a6bb57de536325"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/haderoth_boots.png"
+hash = "3f0259f32b6243b7026483d4e9e48067f7ec78bb780228541d57f9a89a256c2a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/haderoth_chestplate.png"
+hash = "15449ce7a69c4e706535d7e67db058e8f676c957616065664422e5d043802b44"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/haderoth_helmet.png"
+hash = "4cdc9cb933c242239a4a1d0e9c62bc4197af5f0f60d1ce0ac485cbaaf8033c41"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/haderoth_leggings.png"
+hash = "712b5e6dde1f39e364b11dd679680ef688a90b8d9b4123d51d9b607137802b33"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/hepatizon_boots.png"
+hash = "ace947ab851144f56498a97e7a5aa9bdeb43f5d6c2a5a63337b50d7a5cd0331c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/hepatizon_chestplate.png"
+hash = "2510dc30ea8e17f5d12061a84e6e83a885d75950940ad3381a38ff9e6e4908cb"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/hepatizon_helmet.png"
+hash = "c22d3581db2f1153aa96d9b89cbe3144d2966a596de78fad2c002f9ccde096c1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/hepatizon_leggings.png"
+hash = "4b0f38b358d03398d78636e726b040ff840739dedb5301c29d6277593395712e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/ignatius_boots.png"
+hash = "cc293e594800228a26c5936a6087281ae37291a354bcf6ca7dfd02df8ca9a416"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/ignatius_chestplate.png"
+hash = "dc9cd7314b8bda1c06e2386f03cea027d241d505f9d8155f10f21ce97da38b29"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/ignatius_helmet.png"
+hash = "5d39f7271191a8ced24e70166d26c12dd3c97f58bbf596412d0550ee074c7e9c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/ignatius_leggings.png"
+hash = "01d880129000630a5c0b9c54a120ea7c23270ab53bc20b7ef74415faf87d9197"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/inolashite_boots.png"
+hash = "5f9d3b431898443fba3d799c5452dac03f4a669a3757701e41a2b338046f0d0a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/inolashite_chestplate.png"
+hash = "d0ac4547147e2623c9dcbfa0c814e69bd8ca2b2d27a922f57d33045ca4856ba2"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/inolashite_helmet.png"
+hash = "3cc6d9cc36df33d3442b588d8136e209f71017cd9720c5be5ed581d56989129a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/inolashite_leggings.png"
+hash = "e209046327db4dc630a536a994db7f4cdc4496674951b85e2f24a361af421e54"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/kalendrite_boots.png"
+hash = "d84f4e9c0544e2cac0aeac32fab4a6f56207180ce3c65871f0123560206b1f85"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/kalendrite_chestplate.png"
+hash = "928638ce0de0c750d4389ea0ad9c80f33f871f8e78a4c1f1249e267a84a6480a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/kalendrite_helmet.png"
+hash = "0f793c122fd082f964bc1cca5e08d6c3539890c8a82e8e47d46a82ed148161b8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/kalendrite_leggings.png"
+hash = "029d681be0eaba818fd71f9145157a915f689604533c1599c2d02757a59436c1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/krik_boots.png"
+hash = "9789edd59ac30102a915ce4082710f3d92261fef2a9473576568364410419338"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/krik_chestplate.png"
+hash = "96e739ec40280436ec103967c02f1c13a3922255d63dc415681549261a0cf7aa"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/krik_helmet.png"
+hash = "0c19b8810afa5c850909e6cc76a7b7dc799ff2cf426b704ed030d0cc7af818fe"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/krik_leggings.png"
+hash = "cad576665fa60eee839f3a7b84dd748800858f066f04f61dc78e0227549d455c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/lutecium_boots.png"
+hash = "5cd3ff18aed0312fd6622704819715ea3d388f8d9ea89d564402cd2d217cd15e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/lutecium_chestplate.png"
+hash = "6a22262834ba1e28304875f4f07386b127f90af17c41c11f27a0a5460cb44c72"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/lutecium_helmet.png"
+hash = "6f14e9532191ea042ae8d49c4b602c002893679941bda04d7d3b3743c5331cfe"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/lutecium_leggings.png"
+hash = "be17087f948faa384c52ac71a8ba6e0d0f5e122abfa72ebdd210f774aa763674"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/midasium_boots.png"
+hash = "01b834221d5deb72dc07826077adb1ad8e80c33bf6450f87ad5e3c76d3efb540"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/midasium_chestplate.png"
+hash = "dc596c4316d6af60df53e94ce290fea771ed49e2970bb619d291933fb65aae18"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/midasium_helmet.png"
+hash = "00d8452f2745fb47f76da37a473dc798bf79d28671bbd38e514865d80162815e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/midasium_leggings.png"
+hash = "2d44b337081168c7ae6494a183dc38d79caa39293a92bca8036ca967ff545e84"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/mithril_boots.png"
+hash = "c256f255b762c79a3e030fec5f78f6331a0b807765dab784b939f25437850698"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/mithril_chestplate.png"
+hash = "13631a68c8a78343bf16b1fe519593358b88f3b6746a6bcd45774a03e1ec5adb"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/mithril_helmet.png"
+hash = "864332de127142b2de322e0a696f4d23ab3c7e0f5fe7f029ba9fa5009b132165"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/mithril_leggings.png"
+hash = "350bddc7a688751912284a4dab5b6ac80fd545542c126f56d19c7dd95fa50520"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/oreclause_boots.png"
+hash = "e03ce04c73a40834ff19d7b986cfec13606dea55f9e2004ea7ef61fe4f6635e9"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/oreclause_chestplate.png"
+hash = "b4e0d6bff83b12fe109d09b4b4a0bfe42c2f992a6db795a3ace9797b83804721"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/oreclause_helmet.png"
+hash = "50b3c34a4c17f7db272f4f2dd2f052e7b766c77467384ce6115e894e2fb46151"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/oreclause_leggings.png"
+hash = "5ce082d29a7ed40fff3d6e98d3b88f6b22083f8a7c05b512413874c435cab45d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/orichalcum_boots.png"
+hash = "731dacef1a53f9bfadbbde1a917cc1052f129632765fa98a8729a1d2de2ef943"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/orichalcum_chestplate.png"
+hash = "9c59b1eeb0a1048f66c72dca37200a7441720e35d134a30bfe3c3d4dffa621a1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/orichalcum_helmet.png"
+hash = "34122e9e101b839073b72012aa86770810371229594733fd61e531dc31b363da"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/orichalcum_leggings.png"
+hash = "0cac5fbd26d516fe1fced66141963234c061ea30310f5f9cfe311a86b086f997"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/osmium_boots.png"
+hash = "bb95a41d1f8cff0f12a25f01edcbf0ba0a96cba2e7c00afddcf93fca9f5d6b1e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/osmium_chestplate.png"
+hash = "239a58a3ea86db9218dc8e124f843db8225b00e91ba8ee4cb1072ca1d090aae8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/osmium_helmet.png"
+hash = "d5f38262439dd18cde83125bf83fa6703fc8c08ec3f85573b8627ac4f01c8e9b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/osmium_leggings.png"
+hash = "31319ed11ef818a757f2269270e8c47969e19eab2445a0e115d27f0a895b93b7"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/platinum_boots.png"
+hash = "a928598a00487b2335c8350edd64cac8a6dbb132b33e2f583f34bcda73ba39c1"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/platinum_chestplate.png"
+hash = "b29b93de45664e992227fe088d5cd7dca8845c41112a166be075ffc1864cb530"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/platinum_helmet.png"
+hash = "73d47fb9fc4abad8ba11a8cdad0284b0de98fdf1cbcce3d43e1d1d5b7b646f09"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/platinum_leggings.png"
+hash = "552d7a936f6e24ea03fa67286d8e36615013f4dd38fccb50fef13d04c7f965fb"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/prometheum_boots.png"
+hash = "bb54326abb7415e8e291148fafd45adb018b6cda4c0107fac2b6798d2155eaea"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/prometheum_chestplate.png"
+hash = "b3aa0c865cf03136ceb67b8905663c51e75d6f46e184b1b69ecfc9680f024cbc"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/prometheum_helmet.png"
+hash = "0ad5699e08b4c19a0db77dd9408e133c57705e8f377cf2d167eb5f20bf9a12e8"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/prometheum_leggings.png"
+hash = "2f9e1dbf947a5961a390c3bf6f138f4f6782cdbb4f3179ec240c82434a4c0381"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/quicksilver_boots.png"
+hash = "44d252c41f7491b593ca90d1f27ea576f49649652c42ffa36b4e86b98de8e696"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/quicksilver_chestplate.png"
+hash = "343ea25e5cbfcfa54a0f040c18fb2d7981e49823730babad5a72ec0b9391a115"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/quicksilver_helmet.png"
+hash = "b0970026d9b13911401ee8cbbbea852aabaafe8f82a71121c477f7cdcd4bfcdc"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/quicksilver_leggings.png"
+hash = "a8ba6312e9a4208e70696989a5f5f2908a963b3b9a59b1f9403fe6e99544af82"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/sanguinite_boots.png"
+hash = "95d23232a859170d196efd354a222ba44b44090a5012ec366eb01de5e4fefaa4"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/sanguinite_chestplate.png"
+hash = "3e91ea343d33258cccd801ec0be4867c96743b69abb4df4b86b3055b9f4aa60e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/sanguinite_helmet.png"
+hash = "ca2f5985660c697918d8474a71ef14930803a80876ea48ef337ad9771ffc7008"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/sanguinite_leggings.png"
+hash = "d4f1e9e3988e069e2067f677b07b7e127d7cc4d826a4b86cde081446899a9ff9"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/shadow_iron_boots.png"
+hash = "bec3196ebed2aa5d38b87247246ea8c0c4652e236acfb1c53bd83cc270bd08d7"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/shadow_iron_chestplate.png"
+hash = "fe99008e8cf7295640eaeb15af352635cfefa703bd716575391533640760a14d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/shadow_iron_helmet.png"
+hash = "1ed13bfe4518ea645f483bc9e3271110326e3b5890e40b083c0c0ccad9289543"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/shadow_iron_leggings.png"
+hash = "8069a95342f8966ea13a668efe1a8a7dda5edf45c2cd7e12ab937c147fdae68c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/shadow_steel_boots.png"
+hash = "2dd82c65eb990925706fa18b4b4d051c66b060821ac6f6c451bcb1613b1a1457"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/shadow_steel_chestplate.png"
+hash = "ffa2bdcdd49bf19026fe2703f5bfc85750054c86843e41299394ed5b9f1bef24"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/shadow_steel_helmet.png"
+hash = "4c1564502fe0890c64bc59b3ef1316f9376d3ef17289a8829ba65ced3e16db81"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/shadow_steel_leggings.png"
+hash = "137e8b49ef26e4865bf18f15a90170d9edcef6b1ce7d2f841c77d0238118f7c4"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/silver_boots.png"
+hash = "eda57b48ae1f908c4896a64c86e8eefde8c21d3b762556e04b1a21fb812b9571"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/silver_chestplate.png"
+hash = "6b320ded495254a6c2e13f32ffd3adf74fea09083fa6929eca59dba2cd7a379b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/silver_helmet.png"
+hash = "c508c1e057bb9e760ce515a3b91e54656c3ad41d73f78cef96118c78238dc605"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/silver_leggings.png"
+hash = "e56db0b881384cd41b7f25b16a4710aaab34682f57d51cd9b529eb252bdd4210"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/steel_boots.png"
+hash = "b77929da2e5406ebb2fb70476ad879259d30d42828c77336b8f1880770b13db6"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/steel_chestplate.png"
+hash = "663c71d00803d8da8b4bad47b18cd57ded6eb703bc8b59d445a57e3c7ecc9a4d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/steel_helmet.png"
+hash = "4390f136815ec5669c448f3e08473c9cd38af2c96ec1641dd5297108e4e3ad0d"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/steel_leggings.png"
+hash = "ed11266c8e925620f7243a377eee1591be765a2a66ad6ae8b1d92d5203f0555c"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/tartarite_boots.png"
+hash = "65451c975f4dfa692f31a7fe56578e3705f23437f0d21804a1e64cba963757ff"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/tartarite_chestplate.png"
+hash = "321901c1d71939db1212ac1e9c9888f381524a44efb7074d5f4123356305938b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/tartarite_helmet.png"
+hash = "f0fbab13082aaa991b1678062240cb3cd63484b45b703c3fc391c183a3314971"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/tartarite_leggings.png"
+hash = "0a4f10047689c2d09c9599fa31b3254ed59cd5aedcde7a48870c5fad5e176b5e"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulkanite_boots.png"
+hash = "76c79aa84b6be98ed8fa2a355e95ce3effac64951d89d36459c69b7be6d136da"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulkanite_chestplate.png"
+hash = "7e8e0e8d841833a6b02de476becb339538a4e660751c95982a547f404e4fbe07"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulkanite_helmet.png"
+hash = "811e858db82de07fe5ea01d761947f277348372752e3aa76eb0f2cde1756b8e3"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulkanite_leggings.png"
+hash = "47ff36de58bf9c915eb1cdcd735e83b1ecef8ad50a6cacf164fe7cd2c3068a9a"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vyroxeres_boots.png"
+hash = "9ce9bc03595de221ad870a4ab93f58fde9c8e2abcf50789c4317aa8c0c44ecfa"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vyroxeres_chestplate.png"
+hash = "cf5b189457a1e4d228df52a84456868fa150be00490487cf90c2c923f5d0a078"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vyroxeres_helmet.png"
+hash = "99ff62129d6b3afb7576e2035a8226c7bb73f732bd3d2287fbe58f15bb51210b"
+
+[[files]]
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vyroxeres_leggings.png"
+hash = "e6ca9f842f1323d6e5065bec97d8a276abe68767f9f11d99d2bf100ca2989375"
+
+[[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/aquaculture/neptunium_boots.png"
 hash = "8f683a930e035ffc008f7d83d40f7ed2a42a48a4a8c4973a0bf9bf9e5a03e08e"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/aquaculture/neptunium_chestplate.png"
-hash = "207d7215a5e8e82eecd469655667ea915919a0f171bac67a6950bbe3687ec6a8"
+hash = "7b26ad9ac2ecc79bc225aa6fb82889ab2b1d8bc0f829d472f90f68c2addf04ae"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/aquaculture/neptunium_helmet.png"
@@ -27858,7 +29170,7 @@ hash = "87150c5fe7cecc72a7872fec75175d4c16e83cbb58ead46a431787b5d34ae53d"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/default_chest.png"
-hash = "dda6d4bedaaaf0828732236b5e9332f21308483e6ff68488856000f057bdef4f"
+hash = "16b150f4a994165e753e22df8cf2f553e5fca8a18432f5a8cd62e2d28445e6ec"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/default_feet.png"
@@ -27886,7 +29198,7 @@ hash = "1484ae0937e6d189ab3e8ab5d715e4a5306a3e876e6950431f0e9546bc93f1f2"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/dragonsurvival/dark_dragon_chestplate.png"
-hash = "7cbdb1b89ae28b1909d3e0ef499dfda0bd6df8ecd216ded6a4b1b8b74ee1f5b9"
+hash = "27e44ffe1782c0b274f5b0201dda3da3821f57dd4d49d41286488cdb424b6b09"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/dragonsurvival/dark_dragon_helmet.png"
@@ -27902,7 +29214,7 @@ hash = "8ac2e4442300796d1d23d20d6c6756fd5e0bd41df63c2ba62fdfb48498846d72"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/dragonsurvival/light_dragon_chestplate.png"
-hash = "88dc27fb26091f5fc19b69164b2a816492558a5ebb02505bcf3d49afd4d081ff"
+hash = "e91038f46b7464ad58b180da41ac00836e0be5a1d6be3e7318063dee330031eb"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/dragonsurvival/light_dragon_helmet.png"
@@ -27914,7 +29226,7 @@ hash = "f430100103a14f19e3a798496737c12b13fe45a412dd1bbf059c65a8f4d2b3eb"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/epic_chest.png"
-hash = "e22dbbac8b7f9c301ef8aa0158407a7364d8c1b5af19ad033f6e9e3b049ebfb8"
+hash = "246c9d1bc72a3bcb3a7fdd221c110b57d2dde4c3d872dabbb7bb800a77e21615"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/epic_feet.png"
@@ -27978,7 +29290,7 @@ hash = "1f57748721ecb66b44209503deab57d009593e951b04cf5d205d40037eb7b623"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/diamond/chest.png"
-hash = "94d1b9305ef337afa8e93036f431209ebcdf7a5dee04da71ea925b54c9de9fd5"
+hash = "cffa67e358565bd0f8f0e681c7d67e54fc6cd72ab990064eef0a68451b447882"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/diamond/feet.png"
@@ -27994,7 +29306,7 @@ hash = "551341074419274a19b39b2c42988dfd8f2ce14c13c8b740398bbef40a9f0ee8"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/gold/chest.png"
-hash = "b8c6bcc99b9e74a3a04f64c5c06b2fccc79a59db059eb690e6bc3ed6fc67b825"
+hash = "36cf357670f9fb5d351f04ee4b3ce0fe6d5850f452c5a2307e0e14d7b7029942"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/gold/feet.png"
@@ -28010,7 +29322,7 @@ hash = "45490d27f45b947a42744fa1e46440c70467e4c7c25543ed6f3d905a0a26d803"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/iron/chest.png"
-hash = "df532ea931467c74c4437d1b1ea278347ce4b15ff4e057ebd6e36c7f7c42f09e"
+hash = "dd229751d8cd2c8d8013521b2dde40f6f7826a4dcd948ae83567b1d93b281ef6"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/iron/feet.png"
@@ -28026,11 +29338,11 @@ hash = "2649ae2e697e92dc6f76c96fc5f884ef379d525fa8636b41e08824aee876fe92"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/leather/chest.png"
-hash = "af627b60ed2605ff1966e7904173e457a5efaf9b2c303005564bb84296faeb7c"
+hash = "9d19c707dc4f8a1c2b7b9b9d62911e6dad73e2aadbe31cb70d30935421aac474"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/leather/chest_undyed.png"
-hash = "b8f68dbb9371832e15688a1a24cc5c29088a08e13f762d3e430e295bf4363238"
+hash = "c36334190bdde2dc1180c79015da1230a0315d0f9a95f913cec09d3aa560c88d"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/leather/feet.png"
@@ -28058,7 +29370,7 @@ hash = "0a7c11e8eeee19d011d20129e939a9fb34bd05b0036024fd739ec21f44b15a7f"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/netherite/chest.png"
-hash = "4af45d0feb7b2cfc066eb889937554535495d89594b9cd22a5fba57a48060f9b"
+hash = "614099b08c81f1371596665dd73c7a2610fea0a4b1d471f13f156777d5092dac"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/minecraft/materials/netherite/feet.png"
@@ -28114,7 +29426,7 @@ hash = "9679404da9231c5d2e93bbf2a6fa85990bba38755706bd8b317522c32a3c52f1"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/rare_chest.png"
-hash = "2d218beb514fcff7e844350e667a11d57c8d9e0d33fc12c6eb028980a02d2041"
+hash = "51f2e14ae82a4d4b39be449b9ba944124b69252f4daa59e18d4eda91cc97d4c4"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/rare_feet.png"
@@ -28138,7 +29450,7 @@ hash = "a168442faeaac35962e385298a7972bedfcab4604a4a33ea8495e9724d9f3e32"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/uncommon_chest.png"
-hash = "5ddfc6099f9df5c091fe918424a29feb3a2901817b304fb09b27a0ffb13987bd"
+hash = "03f86ec608795f29e50b27f8eaa310092a7736292e5bc54067e2205b1aa6e39e"
 
 [[files]]
 file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/uncommon_feet.png"
@@ -56391,6 +57703,10 @@ hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
 metafile = true
 
 [[files]]
+file = "mods/ds_night_striker_addon-1.0.2-neoforge-1.21.1.jar"
+hash = "6930a87ade766ad2c7e5b6f6648dd3bdc1f8912cf777a4c70365e8d01a399dc9"
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
 metafile = true
@@ -56753,11 +58069,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
-metafile = true
-
-[[files]]
-file = "mods/night-striker-dragon-survival-addon.pw.toml"
-hash = "fdd2f339f2e67fef77999e9edf6a1fdbbd99ab30750df60fb3395024617e7394"
 metafile = true
 
 [[files]]
