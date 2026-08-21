@@ -27905,19 +27905,19 @@ file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/
 hash = "bf7f53a472e291ecb387ded643a4585e356588ad2174534363ce21abf7ead3da"
 
 [[files]]
-file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulkanite_boots.png"
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulcanite_boots.png"
 hash = "8044eef28060177f8ac84b5a6429abdcfb41ff88232e28f9be637a7a2a431bea"
 
 [[files]]
-file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulkanite_chestplate.png"
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulcanite_chestplate.png"
 hash = "7e8e0e8d841833a6b02de476becb339538a4e660751c95982a547f404e4fbe07"
 
 [[files]]
-file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulkanite_helmet.png"
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulcanite_helmet.png"
 hash = "811e858db82de07fe5ea01d761947f277348372752e3aa76eb0f2cde1756b8e3"
 
 [[files]]
-file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulkanite_leggings.png"
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_female/alloyance/vulcanite_leggings.png"
 hash = "67073f2f3329120a8a187689b4c28a28741b510338e0e85b864dab5507fcfde7"
 
 [[files]]
@@ -29001,19 +29001,19 @@ file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/
 hash = "0a4f10047689c2d09c9599fa31b3254ed59cd5aedcde7a48870c5fad5e176b5e"
 
 [[files]]
-file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulkanite_boots.png"
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulcanite_boots.png"
 hash = "76c79aa84b6be98ed8fa2a355e95ce3effac64951d89d36459c69b7be6d136da"
 
 [[files]]
-file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulkanite_chestplate.png"
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulcanite_chestplate.png"
 hash = "7e8e0e8d841833a6b02de476becb339538a4e660751c95982a547f404e4fbe07"
 
 [[files]]
-file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulkanite_helmet.png"
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulcanite_helmet.png"
 hash = "811e858db82de07fe5ea01d761947f277348372752e3aa76eb0f2cde1756b8e3"
 
 [[files]]
-file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulkanite_leggings.png"
+file = "config/openloader/packs/Megarria_Dragons/assets/dragonsurvival/textures/armor/mega_typhus_male/alloyance/vulcanite_leggings.png"
 hash = "47ff36de58bf9c915eb1cdcd735e83b1ecef8ad50a6cacf164fe7cd2c3068a9a"
 
 [[files]]
@@ -57704,7 +57704,7 @@ metafile = true
 
 [[files]]
 file = "mods/ds_night_striker_addon-1.0.2-neoforge-1.21.1.jar"
-hash = "6930a87ade766ad2c7e5b6f6648dd3bdc1f8912cf777a4c70365e8d01a399dc9"
+hash = "93d212fce535556be7274679acfc9864235dfbc4772b56e0beb28efae0e867ae"
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
