@@ -8,7 +8,7 @@
 		#If enabled all abilities will remain when changing dragon species
 		#This does not mean that the other dragon species gains these abilities
 		#It means that when turning to the previous type the abilities will have the same levels
-		save_all_abilities = false
+		save_all_abilities = true
 
 [dragon_hunters]
 	#How many experience points are gained when stealing from villagers

@@ -1,0 +1,13 @@
+name = "Night Striker  -  Dragon Survival Addon"
+filename = "ds_night_striker_addon-1.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "262a9188e3bde5ce87fd5cd66c0397f163ba7bc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8958884
+project-id = 1644839

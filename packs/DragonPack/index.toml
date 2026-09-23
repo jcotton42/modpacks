@@ -250,7 +250,7 @@ hash = "a37a4890922a9b03de8100066637fc9cfb47c8b1dac3e3b40e7234e6b2d087f9"
 
 [[files]]
 file = "config/dragonsurvival-server.toml"
-hash = "2dd5d67c6f2008ef30d6bf8ff5e037cf2122f8aa0c274733206238ebcb2b4129"
+hash = "422dbf6f09580397fb23e7d6b108c02f2a9b11446283d16e5e6456a817da4af4"
 
 [[files]]
 file = "config/dramaticdoors-startup.toml"
@@ -29954,11 +29954,11 @@ hash = "8c7c988499113ea95965307a4cb5b54578668cdbc3ced4e1199be90ecd0eedf1"
 
 [[files]]
 file = "config/openloader/packs/carver_nsfw.zip"
-hash = "c998deb81bdc2fd255989f474bcd6bd2ce3e34b38504afaf0d908af13ad7f8d0"
+hash = "54a7ad485d6a8a51b4e50be4633c5864f4b13a05b693eaf7fa2359aa6fbcfea5"
 
 [[files]]
 file = "config/openloader/packs/vaartok_nsfw.zip"
-hash = "1398c0221c81125efb92701a72e966a1a22b1025260b91ff50f072917cd401ce"
+hash = "6f0860fb00c670dcea9478daecc0fd34bb72287e4e630646ddedc777397969ca"
 
 [[files]]
 file = "config/particular-common.toml"
@@ -57694,17 +57694,13 @@ metafile = true
 
 [[files]]
 file = "mods/dragons-survival.pw.toml"
-hash = "40c74219a817135851642690e174fa7d7676ce09dc408f72d04199d45b181e1f"
+hash = "b2d210c6ba546d93dff5a9d9179de1d6a260b747e0912f1a14b32a4ddda72f66"
 metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
 metafile = true
-
-[[files]]
-file = "mods/ds_night_striker_addon-1.0.2-neoforge-1.21.1.jar"
-hash = "93d212fce535556be7274679acfc9864235dfbc4772b56e0beb28efae0e867ae"
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
@@ -58069,6 +58065,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
+file = "mods/night-striker-dragon-survival-addon.pw.toml"
+hash = "962991c7f55ccde513c0f063432e7a57884822adc229f3d260b9e52450f55a3e"
 metafile = true
 
 [[files]]
