@@ -1,0 +1,13 @@
+name = "Farmer's Pizzeria"
+filename = "farmerspizzeria-1.3.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49994ab18a5371c7cd1302c85155e43e7502f136"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8398618
+project-id = 1449102
