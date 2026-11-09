@@ -1,13 +1,13 @@
 name = "Star Dragon(Dragon Survival Addon)"
-filename = "star_dragon-1.2.1.jar"
+filename = "star_dragon-1.21.1-2.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "60a010dd50ff5a43b8ac002d87a2a124d94d33b7"
+hash = "0cd057012d7231c540c95212fb770d10a2da39e9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8062608
+file-id = 9492694
 project-id = 1485083

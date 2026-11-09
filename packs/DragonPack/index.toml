@@ -57376,7 +57376,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-dragons.pw.toml"
-hash = "0024b93345594c15cb007856a4c30d86b3541d84a7da9261f27c3583b4a76c42"
+hash = "ad3efece97dbd2c9528118c8a73d149fc261d6a88ed2c3305408d6361bfe0f16"
 metafile = true
 
 [[files]]
@@ -57470,7 +57470,7 @@ metafile = true
 
 [[files]]
 file = "mods/be-bee-queen-dragon-survival-addon.pw.toml"
-hash = "47571559f32972f712ec4d73747311eea72540672ff0a56a169d3a27167259af"
+hash = "075aeffef8e88f0eca432c2569792e07c3aa4f34f1c3e634eab9a140fdb907da"
 metafile = true
 
 [[files]]
@@ -57665,7 +57665,7 @@ metafile = true
 
 [[files]]
 file = "mods/crystcursed-dragon.pw.toml"
-hash = "931fee95cac13460cd1ecc88e4f8564dcba8d5e2a51fb4523f8974d0857fe68f"
+hash = "3351e23ed2f95fb9ca203fcf533980ec5f597dc6b1f21afb00041bd3ae27d2de"
 metafile = true
 
 [[files]]
@@ -57695,7 +57695,7 @@ metafile = true
 
 [[files]]
 file = "mods/desert-claw-dragon-survival-addon.pw.toml"
-hash = "109bd4f10854ff70ebbb6b2dcac8d522d615e21a52a502a9fd511fe76f6d3640"
+hash = "dc6836bd25b26979a7af56e7fc3522bbf2e2fee53e20f9010a22ced1a1df04b7"
 metafile = true
 
 [[files]]
@@ -57710,7 +57710,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragon-survival-griffin-addon.pw.toml"
-hash = "bbaa6a43559e95a62b1162d438d4a3172ee3a75b72afa8f517eff88cfd20eeb6"
+hash = "035457b63c22ec6cc3b54c29f9af5c91a8d0ce2280e1a44c8860ca3e5c71653d"
 metafile = true
 
 [[files]]
@@ -57785,7 +57785,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "d148bdbcbbe124240edd8aad0ca8d8a082c2ea5f748236bc473bd9ecedaf5753"
+hash = "26975365054fadd972780c02ec9c5e7b394abcf3fc9f75d59ed3f7e5ead8f3e7"
 metafile = true
 
 [[files]]
@@ -57845,7 +57845,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostfire-dragon.pw.toml"
-hash = "42e15df8c34a55bca606f2d0782befa1a78a83cabdfb481ff9282e7e03f43030"
+hash = "43062877e1d2025a83190ba59a6bf1a8a13493512b0eade130164c62d17d499a"
 metafile = true
 
 [[files]]
@@ -58175,7 +58175,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+hash = "a7fd33e3171967cf90314c3a1147769b051315b7db4f30e7c51304d0d3ef4dee"
 metafile = true
 
 [[files]]
@@ -58385,7 +58385,7 @@ metafile = true
 
 [[files]]
 file = "mods/star-dragon-dragon-survival-addon.pw.toml"
-hash = "9956768648a6f005a46d80919d322b0317e171f92129bfb850ab279ba621b566"
+hash = "392c16b5e4877dce6b5fc6e805b7c11d2df51dec12673bd0dac735c2027ecc9c"
 metafile = true
 
 [[files]]
@@ -58469,13 +58469,18 @@ hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
 metafile = true
 
 [[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "dbf15e1654a0574c2a3eb7973c3e060a911648a8214630a0a74f863497c19e5e"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "a30086884843ddcd5b0f5d3d82d0942341c8bdc09adf3198a0621ab4751f7c16"
 metafile = true
 
 [[files]]
 file = "mods/wing-kirin.pw.toml"
-hash = "b30651cb3df23f58b60c34b1d9048a588c39b6b0c59ce4a7bae3811309b31428"
+hash = "fcced44722573a4c5d5b0db69d4294232a8e8c257d1bf71b7a4de56b12b1194c"
 metafile = true
 
 [[files]]
