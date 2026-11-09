@@ -1,13 +1,13 @@
 name = "Dragon Survival"
-filename = "DragonSurvival-1.21.1-v2.0.70-13.09.2026-all.jar"
+filename = "DragonSurvival-1.21.1-v2.0.73-06.11.2026-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bbd02b8ccc49128ddf0039c77a0b1949024d5c8d"
+hash = "0dc069aefcb0f60d112a34c92b788b4b2335013f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8871661
+file-id = 9494598
 project-id = 420799

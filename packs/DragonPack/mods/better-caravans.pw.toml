@@ -1,0 +1,13 @@
+name = "Better Caravans"
+filename = "bettercaravans-neoforge-1.21.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53e9f5cd12b4510a0f5a7e65a6194d8c53e8fe33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8612970
+project-id = 1482775

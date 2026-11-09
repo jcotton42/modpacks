@@ -30041,10 +30041,6 @@ file = "config/sodium-mixins.properties"
 hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
-file = "config/sodium-options.json"
-hash = "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73"
-
-[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
 
@@ -57389,6 +57385,11 @@ hash = "03cfb6413feddbb80f80eda0ead36ad0d25d4861336b3d3436481fbc6f077d95"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "59c9a1f969edd0ba1da9ba5ad6975951513225d0304a692c3d4c862e2360940c"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
@@ -57433,13 +57434,23 @@ hash = "fbbea448bb6a8bdab5d9f10fb5d27d177a0e7998fb4d797287f0a83b6f89e6d2"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "40cc9a12132ee9064b35daa434c478c9fe70c55f80789bb7a02eccb9d7bd954e"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
 file = "mods/astral-dragon.pw.toml"
 hash = "86f6de9cfdedd5525dfcfce4ab19b4d5839a1ff51aa0b56535bd570f4a3b4b35"
+metafile = true
+
+[[files]]
+file = "mods/atlantis.pw.toml"
+hash = "47f0231b84149c7fbca317cc33e810119b1efb9afc877c8e70706702f21cf79d"
 metafile = true
 
 [[files]]
@@ -57465,6 +57476,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "0933a52d7e0e140f907522d0c9f8910599de4f4ea26455e67a983efe84561971"
+metafile = true
+
+[[files]]
+file = "mods/better-caravans.pw.toml"
+hash = "c4c8cf3dc7efa0b20be6a2c0e8ff2056881733560e2de25c5e9e50939c67dd4c"
 metafile = true
 
 [[files]]
@@ -57653,6 +57669,11 @@ hash = "931fee95cac13460cd1ecc88e4f8564dcba8d5e2a51fb4523f8974d0857fe68f"
 metafile = true
 
 [[files]]
+file = "mods/cult-of-azazel.pw.toml"
+hash = "bb1c71b132a3ade87947ed2447a6ab59a54feb40ea45b42e1d22c51c3d92088a"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
 metafile = true
@@ -57704,7 +57725,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragons-survival.pw.toml"
-hash = "b2d210c6ba546d93dff5a9d9179de1d6a260b747e0912f1a14b32a4ddda72f66"
+hash = "0c7a6b7255e58891feb678f5b864cc450fc75643e57836aa4734f3068b0565c3"
 metafile = true
 
 [[files]]
@@ -57813,6 +57834,11 @@ hash = "e4c19b685564ad8269c34bec7cd2f530b6e2ae19cbd0ca35b0a2d3965287d086"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum-neoforge.pw.toml"
+hash = "49e92bbcb8d8705b053dcf0d3be39b5224a411c8d2d38fff8643e402b56aa52d"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
@@ -57885,6 +57911,11 @@ metafile = true
 [[files]]
 file = "mods/heartstone.pw.toml"
 hash = "e71ae49b626c6dfb574138cb42f3367de1df8165fbe48c97003f84c9f3aba8bd"
+metafile = true
+
+[[files]]
+file = "mods/hellish-trials.pw.toml"
+hash = "f493681afe9d27595b382cfbbc756ea0ab06daa106e5bd8f50b10e6e8cc1076c"
 metafile = true
 
 [[files]]
@@ -58093,6 +58124,11 @@ hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
+file = "mods/neurolib.pw.toml"
+hash = "338d0bf3438cf1abf71618394cad9f30299189386359a63664d6b480b015fe7b"
+metafile = true
+
+[[files]]
 file = "mods/night-striker-dragon-survival-addon.pw.toml"
 hash = "962991c7f55ccde513c0f063432e7a57884822adc229f3d260b9e52450f55a3e"
 metafile = true
@@ -58138,6 +58174,11 @@ hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+metafile = true
+
+[[files]]
 file = "mods/paintings-with-dragons.pw.toml"
 hash = "9ce59a1951ab56c8a4858d4fd40b3dc944bedb6c57c03d33b1aa4812a6917070"
 metafile = true
@@ -58163,6 +58204,11 @@ hash = "a1b19740a94f43405c4a9d303e9313911b3d12e48958699bfeaed3dafc57a24f"
 metafile = true
 
 [[files]]
+file = "mods/pillager-caravans.pw.toml"
+hash = "0feed48a38a153ae686dbee024c441a36f4adb054f4b5ab4ea5fbc0b21431076"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
@@ -58180,6 +58226,11 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
+metafile = true
+
+[[files]]
+file = "mods/portals-relinked.pw.toml"
+hash = "d37b3b0117e9f28045ab6bed1c80e26934a3fb253a5e82e911658fcb4788df19"
 metafile = true
 
 [[files]]
@@ -58415,11 +58466,6 @@ metafile = true
 [[files]]
 file = "mods/uranus.pw.toml"
 hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
-metafile = true
-
-[[files]]
-file = "mods/wakes-reforged.pw.toml"
-hash = "a4936281b7fdf6005961596c6f2b952c8f1bc62b16138630492b57aa0629366c"
 metafile = true
 
 [[files]]

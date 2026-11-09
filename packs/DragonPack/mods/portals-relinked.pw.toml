@@ -1,0 +1,13 @@
+name = "Portals: Relinked"
+filename = "portals_relinked-1.0.0-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64b3c2c9935d7e691c5a3e1467d6613e1e1cac28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8739756
+project-id = 1668108
